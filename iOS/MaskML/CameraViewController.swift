@@ -101,8 +101,8 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                     return
                 }
                 
-                let pixelBufferWidth = CVPixelBufferGetWidth(pixelBuffer)
-                let pixelBufferHeight = CVPixelBufferGetHeight(pixelBuffer)
+//                let pixelBufferWidth = CVPixelBufferGetWidth(pixelBuffer)
+//                let pixelBufferHeight = CVPixelBufferGetHeight(pixelBuffer)
                 
                 let topKPredictions = predictions.prefix(self.boundingBoxes.count)
                 for (index, prediction) in topKPredictions.enumerated() {
