@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		234EB2D9221FA7C800B23265 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2D8221FA7C800B23265 /* AppDelegate.swift */; };
-		234EB2DB221FA7C800B23265 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2DA221FA7C800B23265 /* CameraViewController.swift */; };
 		234EB2DE221FA7C800B23265 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234EB2DC221FA7C800B23265 /* Main.storyboard */; };
 		234EB2E0221FA7CA00B23265 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 234EB2DF221FA7CA00B23265 /* Assets.xcassets */; };
 		234EB2E3221FA7CA00B23265 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 234EB2E1221FA7CA00B23265 /* LaunchScreen.storyboard */; };
-		234EB2EB221FA9E600B23265 /* SSDPredictor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EA221FA9E600B23265 /* SSDPredictor.swift */; };
-		234EB2ED221FAA0D00B23265 /* UIBoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EC221FAA0D00B23265 /* UIBoundingBox.swift */; };
-		C784182B254E8923000E4CCB /* Model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C784182A254E8922000E4CCB /* Model.mlmodel */; };
+		C7F2A3EB254EB7D800702B55 /* Model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = C784182A254E8922000E4CCB /* Model.mlmodel */; };
+		C7F2A3EC254EB7D800702B55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2D8221FA7C800B23265 /* AppDelegate.swift */; };
+		C7F2A3ED254EB7D800702B55 /* UIBoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EC221FAA0D00B23265 /* UIBoundingBox.swift */; };
+		C7F2A3EE254EB7D800702B55 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2DA221FA7C800B23265 /* CameraViewController.swift */; };
+		C7F2A3EF254EB7D800702B55 /* SSDPredictor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EA221FA9E600B23265 /* SSDPredictor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,7 +100,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1210;
 				ORGANIZATIONNAME = "Nicholas Bourdakos";
 				TargetAttributes = {
 					234EB2D4221FA7C800B23265 = {
@@ -144,11 +144,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				234EB2EB221FA9E600B23265 /* SSDPredictor.swift in Sources */,
-				C784182B254E8923000E4CCB /* Model.mlmodel in Sources */,
-				234EB2DB221FA7C800B23265 /* CameraViewController.swift in Sources */,
-				234EB2D9221FA7C800B23265 /* AppDelegate.swift in Sources */,
-				234EB2ED221FAA0D00B23265 /* UIBoundingBox.swift in Sources */,
+				C7F2A3EB254EB7D800702B55 /* Model.mlmodel in Sources */,
+				C7F2A3EC254EB7D800702B55 /* AppDelegate.swift in Sources */,
+				C7F2A3ED254EB7D800702B55 /* UIBoundingBox.swift in Sources */,
+				C7F2A3EE254EB7D800702B55 /* CameraViewController.swift in Sources */,
+				C7F2A3EF254EB7D800702B55 /* SSDPredictor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,6 +200,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -261,6 +262,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -296,12 +298,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3H34YAH4Y6;
-				INFOPLIST_FILE = "Core ML Object Detection/Info.plist";
+				INFOPLIST_FILE = MaskML/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "bourdakos1.Core-ML-Object-Detection";
+				PRODUCT_BUNDLE_IDENTIFIER = com.aradik.MaskML;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,12 +316,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3H34YAH4Y6;
-				INFOPLIST_FILE = "Core ML Object Detection/Info.plist";
+				INFOPLIST_FILE = MaskML/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "bourdakos1.Core-ML-Object-Detection";
+				PRODUCT_BUNDLE_IDENTIFIER = com.aradik.MaskML;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -29,12 +29,17 @@ class CameraViewController: UIViewController {
     
     let videoOutput = AVCaptureVideoDataOutput()
     lazy var captureSession: AVCaptureSession? = {
-        guard let backCamera = AVCaptureDevice.default(for: .video),
-            let input = try? AVCaptureDeviceInput(device: backCamera) else {
-                return nil
+        
+        guard let frontCamera = AVCaptureDevice.DiscoverySession(deviceTypes: [AVCaptureDevice.DeviceType.builtInWideAngleCamera], mediaType: .video, position: AVCaptureDevice.Position.front).devices.first, let input = try? AVCaptureDeviceInput(device: frontCamera) else {
+            return nil
         }
         
-        let dimensions = CMVideoFormatDescriptionGetDimensions(backCamera.activeFormat.formatDescription)
+//        guard let backCamera = AVCaptureDevice.default(for: .video),
+//            let input = try? AVCaptureDeviceInput(device: backCamera) else {
+//                return nil
+//        }
+        
+        let dimensions = CMVideoFormatDescriptionGetDimensions(frontCamera.activeFormat.formatDescription)
         videoHeight = dimensions.height
         videoWidth = dimensions.width
         
@@ -50,7 +55,7 @@ class CameraViewController: UIViewController {
             let previewLayer = AVCaptureVideoPreviewLayer(session: captureSession)
             previewLayer.frame = CGRect(x: view.bounds.minX, y: view.bounds.minY, width: view.bounds.width, height: view.bounds.height)
             // `.resize` allows the camera to fill the screen on the iPhone X.
-            previewLayer.videoGravity = .resize
+            previewLayer.videoGravity = .resizeAspectFill
             previewLayer.connection?.videoOrientation = .portrait
             cameraView.layer.addSublayer(previewLayer)
             return captureSession
