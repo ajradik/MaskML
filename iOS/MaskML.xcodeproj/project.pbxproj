@@ -15,6 +15,7 @@
 		C7F2A3ED254EB7D800702B55 /* UIBoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EC221FAA0D00B23265 /* UIBoundingBox.swift */; };
 		C7F2A3EE254EB7D800702B55 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2DA221FA7C800B23265 /* CameraViewController.swift */; };
 		C7F2A3EF254EB7D800702B55 /* SSDPredictor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 234EB2EA221FA9E600B23265 /* SSDPredictor.swift */; };
+		C7F2A3FD254ECCC500702B55 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F2A3FC254ECCC500702B55 /* UIViewExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		234EB2EA221FA9E600B23265 /* SSDPredictor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSDPredictor.swift; sourceTree = "<group>"; };
 		234EB2EC221FAA0D00B23265 /* UIBoundingBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIBoundingBox.swift; sourceTree = "<group>"; };
 		C784182A254E8922000E4CCB /* Model.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Model.mlmodel; sourceTree = "<group>"; };
+		C7F2A3FC254ECCC500702B55 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		234EB2D7221FA7C800B23265 /* MaskML */ = {
 			isa = PBXGroup;
 			children = (
+				C7F2A3FC254ECCC500702B55 /* UIViewExtension.swift */,
 				C784182A254E8922000E4CCB /* Model.mlmodel */,
 				234EB2D8221FA7C800B23265 /* AppDelegate.swift */,
 				234EB2EC221FAA0D00B23265 /* UIBoundingBox.swift */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7F2A3FD254ECCC500702B55 /* UIViewExtension.swift in Sources */,
 				C7F2A3EB254EB7D800702B55 /* Model.mlmodel in Sources */,
 				C7F2A3EC254EB7D800702B55 /* AppDelegate.swift in Sources */,
 				C7F2A3ED254EB7D800702B55 /* UIBoundingBox.swift in Sources */,
