@@ -31,6 +31,18 @@ class UIBoundingBox {
         parent.addSublayer(textLayer)
     }
     
+    func transformLabel(label: String) -> String {
+        if label == "no-mask" {
+            return "No Mask"
+        }
+        
+        else if label == "mask" {
+            return "Mask"
+        }
+        
+        return label
+    }
+    
     func show(frame: CGRect, label: String, color: UIColor, textColor: UIColor = .white) {
         CATransaction.setDisableActions(true)
         
@@ -39,7 +51,7 @@ class UIBoundingBox {
         shapeLayer.strokeColor = color.cgColor
         shapeLayer.isHidden = false
         
-        textLayer.string = label
+        textLayer.string = transformLabel(label: label)
         textLayer.foregroundColor = textColor.cgColor
         textLayer.backgroundColor = color.cgColor
         textLayer.isHidden = false
