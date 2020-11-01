@@ -20,7 +20,7 @@ class CameraViewController: UIViewController {
     
     // MARK: - Variable Declarations
     
-    let ssdPredictor = SSDPredictor(Model().model)
+    let ssdPredictor = try! SSDPredictor(Model(configuration: .init()).model)
     var boundingBoxes: [UIBoundingBox] = []
     var screenHeight: CGFloat?
     var screenWidth: CGFloat?
