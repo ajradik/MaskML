@@ -104,8 +104,10 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                     let transform = CGAffineTransform(scaleX: 1, y: -1).translatedBy(x: 0, y: -height - offsetY)
                     let rect = prediction.boundingBox.applying(scale).applying(transform)
                     
+                    let modifiedRect = CGRect(x: width - rect.maxX, y: rect.minY, width: rect.width, height: rect.height)
+                    
                     let color = UIColor(red: 36/255, green: 101/255, blue: 255/255, alpha: 1.0)
-                    self.boundingBoxes[index].show(frame: rect, label: label.identifier, color: color)
+                    self.boundingBoxes[index].show(frame: modifiedRect, label: label.identifier, color: color)
                 }
                 for index in topKPredictions.count ..< 20 {
                     self.boundingBoxes[index].hide()
