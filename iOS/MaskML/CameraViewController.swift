@@ -108,7 +108,7 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                     
                     let height = screenHeight
                     let width = screenWidth
-                    
+                    // TODO: FIX
                     let offsetY = (screenHeight - height) / 2
                     let offsetX = ((CGFloat(videoWidth)/CGFloat((videoHeight))) * screenHeight - screenWidth) / 2
                     let scale = CGAffineTransform.identity.scaledBy(x: width, y: height)
