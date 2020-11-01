@@ -53,9 +53,9 @@ class CameraViewController: UIViewController {
             let videoOutput = AVCaptureVideoDataOutput()
 
             let previewLayer = AVCaptureVideoPreviewLayer(session: captureSession)
+            previewLayer.videoGravity = .resizeAspectFill
             previewLayer.frame = CGRect(x: view.bounds.minX, y: view.bounds.minY, width: view.bounds.width, height: view.bounds.height)
             // `.resize` allows the camera to fill the screen on the iPhone X.
-            previewLayer.videoGravity = .resizeAspectFill
             previewLayer.connection?.videoOrientation = .portrait
             cameraView.layer.addSublayer(previewLayer)
             
@@ -100,6 +100,10 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                 guard let screenWidth = self.screenWidth, let screenHeight = self.screenHeight, let videoWidth = self.videoWidth, let videoHeight =  self.videoHeight else {
                     return
                 }
+                
+                let pixelBufferWidth = CVPixelBufferGetWidth(pixelBuffer)
+                let pixelBufferHeight = CVPixelBufferGetHeight(pixelBuffer)
+                
                 let topKPredictions = predictions.prefix(self.boundingBoxes.count)
                 for (index, prediction) in topKPredictions.enumerated() {
                     guard let label = prediction.labels.first else {
@@ -107,12 +111,12 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                     }
                     
                     let height = screenHeight
-                    let width = screenWidth
+                    let width = (CGFloat(videoHeight)/CGFloat(videoWidth)) * screenHeight //SCALING FIX!
                     // TODO: FIX
                     let offsetY = (screenHeight - height) / 2
-//                    let offsetX = ((CGFloat(videoWidth)/CGFloat((videoHeight))) * screenHeight - screenWidth) / 2
+                    let offsetX = (width - screenWidth) / 2 //SCALING FIX!
                     let scale = CGAffineTransform.identity.scaledBy(x: width, y: height)
-                    let transform = CGAffineTransform(scaleX: 1, y: -1).translatedBy(x: 0, y: -height - offsetY)
+                    let transform = CGAffineTransform(scaleX: 1, y: -1).translatedBy(x: offsetX, y: -height - offsetY)
                     let rect = prediction.boundingBox.applying(scale).applying(transform)
                     
                     let modifiedRect = CGRect(x: width - rect.maxX, y: rect.minY, width: rect.width, height: rect.height)
