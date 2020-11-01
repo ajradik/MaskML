@@ -34,6 +34,8 @@ class CameraViewController: UIViewController {
             return nil
         }
         
+//        frontCamera.activeFormat.formatDescription.dimensions = CMVideoDimensions(width: screenWidth, height: screenHeight)
+        
 //        guard let backCamera = AVCaptureDevice.default(for: .video),
 //            let input = try? AVCaptureDeviceInput(device: backCamera) else {
 //                return nil
@@ -49,15 +51,22 @@ class CameraViewController: UIViewController {
         
         if captureSession.canAddOutput(videoOutput) {
             let videoOutput = AVCaptureVideoDataOutput()
-            videoOutput.setSampleBufferDelegate(self, queue: DispatchQueue(label: "MyQueue"))
-            captureSession.addOutput(videoOutput)
-            
+
             let previewLayer = AVCaptureVideoPreviewLayer(session: captureSession)
             previewLayer.frame = CGRect(x: view.bounds.minX, y: view.bounds.minY, width: view.bounds.width, height: view.bounds.height)
             // `.resize` allows the camera to fill the screen on the iPhone X.
             previewLayer.videoGravity = .resizeAspectFill
             previewLayer.connection?.videoOrientation = .portrait
             cameraView.layer.addSublayer(previewLayer)
+            
+            if #available(iOS 13.0, *) {
+                videoOutput.automaticallyConfiguresOutputBufferDimensions = false
+                videoOutput.deliversPreviewSizedOutputBuffers = true
+            }
+            
+            videoOutput.setSampleBufferDelegate(self, queue: DispatchQueue(label: "MyQueue"))
+            captureSession.addOutput(videoOutput)
+
             return captureSession
         }
         return nil
@@ -97,9 +106,11 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                         return
                     }
                     
+                    let height = screenHeight
                     let width = screenWidth
-                    let height = width * (CGFloat(videoWidth) / CGFloat(videoHeight))
+                    
                     let offsetY = (screenHeight - height) / 2
+                    let offsetX = ((CGFloat(videoWidth)/CGFloat((videoHeight))) * screenHeight - screenWidth) / 2
                     let scale = CGAffineTransform.identity.scaledBy(x: width, y: height)
                     let transform = CGAffineTransform(scaleX: 1, y: -1).translatedBy(x: 0, y: -height - offsetY)
                     let rect = prediction.boundingBox.applying(scale).applying(transform)

@@ -13,11 +13,11 @@
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="CameraViewController" customModule="MaskML" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                    <view key="view" contentMode="scaleAspectFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QRi-ob-CYU">
+                            <view contentMode="scaleAspectFill" translatesAutoresizingMaskIntoConstraints="NO" id="QRi-ob-CYU">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <color key="backgroundColor" systemColor="secondarySystemGroupedBackgroundColor"/>
                             </view>
@@ -25,10 +25,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="QRi-ob-CYU" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="UOh-hY-yhZ"/>
-                            <constraint firstItem="QRi-ob-CYU" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="bm9-qQ-87x"/>
-                            <constraint firstAttribute="trailing" secondItem="QRi-ob-CYU" secondAttribute="trailing" id="l6b-qf-qVO"/>
-                            <constraint firstAttribute="bottom" secondItem="QRi-ob-CYU" secondAttribute="bottom" id="oeU-Rm-MDi"/>
+                            <constraint firstAttribute="trailing" secondItem="QRi-ob-CYU" secondAttribute="trailing" id="GBQ-2B-pGO"/>
+                            <constraint firstItem="QRi-ob-CYU" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="GS4-eo-wMg"/>
+                            <constraint firstItem="QRi-ob-CYU" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="ct7-Fk-PG8"/>
+                            <constraint firstAttribute="bottom" secondItem="QRi-ob-CYU" secondAttribute="bottom" id="cuO-MT-QQD"/>
                         </constraints>
                     </view>
                     <connections>
