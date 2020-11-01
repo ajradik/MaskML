@@ -1,0 +1,6791 @@
+[
+    {
+        "image": "1249493_jpg.rf.0bab72e6f8295a2ba03052383e7c3b7b.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 624.5,
+                    "y": 117,
+                    "width": 47,
+                    "height": 66
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 752.5,
+                    "y": 117,
+                    "width": 57,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 698,
+                    "y": 125,
+                    "width": 70,
+                    "height": 116
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 429,
+                    "y": 104,
+                    "width": 74,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 115.5,
+                    "y": 65.5,
+                    "width": 101,
+                    "height": 131
+                }
+            }
+        ]
+    },
+    {
+        "image": "1125506397_15801322206131n_jpg.rf.0a60284a71b2d0ed77c002e768b39b00.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 66.5,
+                    "y": 140.5,
+                    "width": 45,
+                    "height": 69
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 161.5,
+                    "y": 163,
+                    "width": 47,
+                    "height": 58
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 521.5,
+                    "y": 132,
+                    "width": 65,
+                    "height": 70
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 724,
+                    "y": 121,
+                    "width": 72,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 359,
+                    "y": 128.5,
+                    "width": 138,
+                    "height": 147
+                }
+            }
+        ]
+    },
+    {
+        "image": "1_R_kFK9pNLfKAuopY_lAaPQ_jpeg.rf.030922effaedbead963acea666441dbd.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 309,
+                    "y": 392,
+                    "width": 54,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 881,
+                    "y": 305,
+                    "width": 84,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 758,
+                    "y": 319.5,
+                    "width": 74,
+                    "height": 105
+                }
+            }
+        ]
+    },
+    {
+        "image": "pjecDNMmCUQmbDoJx1fdqolnfHtpsfFK8jTA2Ng0wNg_jpeg.rf.001be2b5923d35fa3118de329f14f583.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1529.5,
+                    "y": 464,
+                    "width": 221,
+                    "height": 338
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 287.5,
+                    "y": 353,
+                    "width": 171,
+                    "height": 200
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 599,
+                    "y": 431,
+                    "width": 168,
+                    "height": 188
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 863.5,
+                    "y": 344,
+                    "width": 213,
+                    "height": 280
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1211,
+                    "y": 505.5,
+                    "width": 162,
+                    "height": 191
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1664.5,
+                    "y": 363,
+                    "width": 239,
+                    "height": 314
+                }
+            }
+        ]
+    },
+    {
+        "image": "r1p00017o80q34s9781_jpg.rf.1ef0de5c875f7e73138d8c9f988eb12e.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 101.5,
+                    "y": 196.5,
+                    "width": 93,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 437.5,
+                    "y": 194,
+                    "width": 219,
+                    "height": 302
+                }
+            }
+        ]
+    },
+    {
+        "image": "pollution-mask-CE5HYF_jpg.rf.1d7683c780033e0e32a5ad9d0e1aef33.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 936.5,
+                    "y": 434.5,
+                    "width": 233,
+                    "height": 339
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 668.5,
+                    "y": 345.5,
+                    "width": 359,
+                    "height": 457
+                }
+            }
+        ]
+    },
+    {
+        "image": "1_13_jpg.rf.042a2d0121bd5b62e8dd83506ea5ffc1.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 837,
+                    "y": 173.5,
+                    "width": 108,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 752.5,
+                    "y": 186,
+                    "width": 49,
+                    "height": 68
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 542,
+                    "y": 49,
+                    "width": 44,
+                    "height": 64
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 461,
+                    "y": 84.5,
+                    "width": 66,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 327.5,
+                    "y": 46,
+                    "width": 63,
+                    "height": 64
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 168.5,
+                    "y": 128.5,
+                    "width": 129,
+                    "height": 157
+                }
+            }
+        ]
+    },
+    {
+        "image": "0_8w7mkX-PHcfMM5s6_jpeg.rf.039eb72a4757882968537a6ae94d198f.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1415,
+                    "y": 275.5,
+                    "width": 56,
+                    "height": 67
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 220.5,
+                    "y": 780.5,
+                    "width": 71,
+                    "height": 85
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 325.5,
+                    "y": 868,
+                    "width": 67,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 33,
+                    "y": 653,
+                    "width": 62,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 257.5,
+                    "y": 646,
+                    "width": 95,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 144.5,
+                    "y": 631,
+                    "width": 69,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 179.5,
+                    "y": 229,
+                    "width": 63,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 173.5,
+                    "y": 268.5,
+                    "width": 55,
+                    "height": 65
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 339,
+                    "y": 515.5,
+                    "width": 64,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 264.5,
+                    "y": 502,
+                    "width": 69,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 490,
+                    "y": 321,
+                    "width": 56,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 445.5,
+                    "y": 381.5,
+                    "width": 57,
+                    "height": 69
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 281,
+                    "y": 393,
+                    "width": 64,
+                    "height": 74
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 426.5,
+                    "y": 338.5,
+                    "width": 55,
+                    "height": 67
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 527.5,
+                    "y": 393.5,
+                    "width": 59,
+                    "height": 69
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 603,
+                    "y": 365.5,
+                    "width": 62,
+                    "height": 67
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 687.5,
+                    "y": 324,
+                    "width": 55,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 519.5,
+                    "y": 544.5,
+                    "width": 69,
+                    "height": 79
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 683.5,
+                    "y": 496,
+                    "width": 73,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 736.5,
+                    "y": 397.5,
+                    "width": 67,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 645.5,
+                    "y": 276.5,
+                    "width": 59,
+                    "height": 69
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 525.5,
+                    "y": 198,
+                    "width": 49,
+                    "height": 54
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 593,
+                    "y": 164.5,
+                    "width": 52,
+                    "height": 59
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 631,
+                    "y": 121,
+                    "width": 48,
+                    "height": 58
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 720,
+                    "y": 26,
+                    "width": 48,
+                    "height": 50
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 704.5,
+                    "y": 74,
+                    "width": 47,
+                    "height": 54
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 781,
+                    "y": 88.5,
+                    "width": 50,
+                    "height": 59
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 807,
+                    "y": 153.5,
+                    "width": 50,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 795,
+                    "y": 276.5,
+                    "width": 58,
+                    "height": 65
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 862.5,
+                    "y": 141,
+                    "width": 53,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 837.5,
+                    "y": 71.5,
+                    "width": 49,
+                    "height": 55
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 908.5,
+                    "y": 23.5,
+                    "width": 43,
+                    "height": 43
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 947.5,
+                    "y": 89.5,
+                    "width": 45,
+                    "height": 49
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1015.5,
+                    "y": 99,
+                    "width": 45,
+                    "height": 38
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 998,
+                    "y": 186.5,
+                    "width": 56,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 842,
+                    "y": 495.5,
+                    "width": 78,
+                    "height": 93
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1110.5,
+                    "y": 471.5,
+                    "width": 63,
+                    "height": 79
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1122.5,
+                    "y": 401.5,
+                    "width": 59,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1013,
+                    "y": 318,
+                    "width": 60,
+                    "height": 72
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 917.5,
+                    "y": 440,
+                    "width": 79,
+                    "height": 82
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 966.5,
+                    "y": 495,
+                    "width": 69,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1071.5,
+                    "y": 510.5,
+                    "width": 75,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1332.5,
+                    "y": 520.5,
+                    "width": 69,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1208.5,
+                    "y": 525,
+                    "width": 81,
+                    "height": 102
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1264.5,
+                    "y": 399.5,
+                    "width": 61,
+                    "height": 79
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1287.5,
+                    "y": 221.5,
+                    "width": 53,
+                    "height": 65
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1346,
+                    "y": 182.5,
+                    "width": 48,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1086,
+                    "y": 32.5,
+                    "width": 48,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1079.5,
+                    "y": 138,
+                    "width": 51,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1141.5,
+                    "y": 78.5,
+                    "width": 51,
+                    "height": 59
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1270,
+                    "y": 114.5,
+                    "width": 54,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1246.5,
+                    "y": 254,
+                    "width": 55,
+                    "height": 64
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1258.5,
+                    "y": 18.5,
+                    "width": 49,
+                    "height": 35
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1335.5,
+                    "y": 91,
+                    "width": 45,
+                    "height": 50
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1388.5,
+                    "y": 108,
+                    "width": 53,
+                    "height": 58
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1412,
+                    "y": 121.5,
+                    "width": 50,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1533.5,
+                    "y": 18.5,
+                    "width": 47,
+                    "height": 37
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1458,
+                    "y": 142.5,
+                    "width": 52,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1733,
+                    "y": 53,
+                    "width": 46,
+                    "height": 56
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1635,
+                    "y": 94,
+                    "width": 50,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1590,
+                    "y": 128.5,
+                    "width": 50,
+                    "height": 45
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1472,
+                    "y": 191.5,
+                    "width": 48,
+                    "height": 49
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1681,
+                    "y": 122.5,
+                    "width": 44,
+                    "height": 47
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1915,
+                    "y": 34.5,
+                    "width": 46,
+                    "height": 55
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1853.5,
+                    "y": 64.5,
+                    "width": 53,
+                    "height": 55
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1787.5,
+                    "y": 91.5,
+                    "width": 57,
+                    "height": 63
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1738.5,
+                    "y": 224.5,
+                    "width": 55,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1648,
+                    "y": 223.5,
+                    "width": 54,
+                    "height": 63
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1546.5,
+                    "y": 320.5,
+                    "width": 61,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1705.5,
+                    "y": 300.5,
+                    "width": 57,
+                    "height": 65
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1848.5,
+                    "y": 244.5,
+                    "width": 55,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1960,
+                    "y": 134,
+                    "width": 60,
+                    "height": 74
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1901,
+                    "y": 243.5,
+                    "width": 62,
+                    "height": 67
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1808.5,
+                    "y": 370.5,
+                    "width": 45,
+                    "height": 51
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1748.5,
+                    "y": 435.5,
+                    "width": 69,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1696,
+                    "y": 383.5,
+                    "width": 60,
+                    "height": 69
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1623.5,
+                    "y": 416,
+                    "width": 75,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1977.5,
+                    "y": 671,
+                    "width": 41,
+                    "height": 92
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1841.5,
+                    "y": 437,
+                    "width": 71,
+                    "height": 80
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1822,
+                    "y": 590,
+                    "width": 72,
+                    "height": 90
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1787,
+                    "y": 638.5,
+                    "width": 84,
+                    "height": 95
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1472.5,
+                    "y": 546.5,
+                    "width": 79,
+                    "height": 83
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1384.5,
+                    "y": 572.5,
+                    "width": 77,
+                    "height": 97
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1435.5,
+                    "y": 624,
+                    "width": 79,
+                    "height": 100
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 726.5,
+                    "y": 622,
+                    "width": 93,
+                    "height": 98
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 853.5,
+                    "y": 584.5,
+                    "width": 81,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 987.5,
+                    "y": 615,
+                    "width": 93,
+                    "height": 104
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 906.5,
+                    "y": 738,
+                    "width": 85,
+                    "height": 100
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1762.5,
+                    "y": 509,
+                    "width": 69,
+                    "height": 80
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1192.5,
+                    "y": 703.5,
+                    "width": 97,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 862,
+                    "y": 685,
+                    "width": 0,
+                    "height": 0
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 943.5,
+                    "y": 799,
+                    "width": 101,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 155.5,
+                    "y": 946.5,
+                    "width": 125,
+                    "height": 115
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1804,
+                    "y": 1317.5,
+                    "width": 122,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1443.5,
+                    "y": 728.5,
+                    "width": 91,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1387,
+                    "y": 749,
+                    "width": 98,
+                    "height": 110
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1880,
+                    "y": 728.5,
+                    "width": 84,
+                    "height": 103
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1881.5,
+                    "y": 830,
+                    "width": 115,
+                    "height": 130
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1880,
+                    "y": 1073,
+                    "width": 92,
+                    "height": 122
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1806,
+                    "y": 1092.5,
+                    "width": 112,
+                    "height": 139
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1498,
+                    "y": 1243.5,
+                    "width": 124,
+                    "height": 147
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1297,
+                    "y": 1129,
+                    "width": 110,
+                    "height": 130
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1201.5,
+                    "y": 1026.5,
+                    "width": 105,
+                    "height": 123
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1091,
+                    "y": 1190,
+                    "width": 116,
+                    "height": 124
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 912,
+                    "y": 1085.5,
+                    "width": 74,
+                    "height": 97
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 818.5,
+                    "y": 1276.5,
+                    "width": 127,
+                    "height": 133
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 496,
+                    "y": 1296.5,
+                    "width": 112,
+                    "height": 121
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 750.5,
+                    "y": 851,
+                    "width": 95,
+                    "height": 92
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 570,
+                    "y": 770,
+                    "width": 84,
+                    "height": 94
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 524.5,
+                    "y": 828,
+                    "width": 99,
+                    "height": 106
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 759.5,
+                    "y": 957,
+                    "width": 77,
+                    "height": 96
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 811,
+                    "y": 964,
+                    "width": 86,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 653,
+                    "y": 1061,
+                    "width": 110,
+                    "height": 118
+                }
+            }
+        ]
+    },
+    {
+        "image": "130624011830-malaysia-smog-students-horizontal-large-gallery_jpg.rf.1d1478ec7b2667aa240401f636d513c4.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 757,
+                    "y": 159.5,
+                    "width": 32,
+                    "height": 43
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 914,
+                    "y": 140.5,
+                    "width": 46,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 871,
+                    "y": 140,
+                    "width": 46,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 800,
+                    "y": 126,
+                    "width": 56,
+                    "height": 68
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 697.5,
+                    "y": 117.5,
+                    "width": 45,
+                    "height": 69
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 647,
+                    "y": 114.5,
+                    "width": 52,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 519,
+                    "y": 79,
+                    "width": 68,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 411.5,
+                    "y": 64.5,
+                    "width": 77,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 370,
+                    "y": 169,
+                    "width": 48,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 264,
+                    "y": 175.5,
+                    "width": 56,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 28.5,
+                    "y": 131,
+                    "width": 53,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 130.5,
+                    "y": 53,
+                    "width": 83,
+                    "height": 96
+                }
+            }
+        ]
+    },
+    {
+        "image": "11893820-3x2-xlarge_jpg.rf.1529b09bfee7d069f677ff513f6249eb.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 429.5,
+                    "y": 47,
+                    "width": 89,
+                    "height": 94
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 555,
+                    "y": 340,
+                    "width": 110,
+                    "height": 166
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 128.5,
+                    "y": 39.5,
+                    "width": 69,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 797.5,
+                    "y": 155.5,
+                    "width": 91,
+                    "height": 109
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 645,
+                    "y": 132,
+                    "width": 84,
+                    "height": 98
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 837.5,
+                    "y": 40.5,
+                    "width": 45,
+                    "height": 75
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 732.5,
+                    "y": 64,
+                    "width": 71,
+                    "height": 90
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 632.5,
+                    "y": 46,
+                    "width": 83,
+                    "height": 78
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 493,
+                    "y": 127.5,
+                    "width": 84,
+                    "height": 95
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 537,
+                    "y": 51.5,
+                    "width": 86,
+                    "height": 93
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 73,
+                    "y": 53.5,
+                    "width": 72,
+                    "height": 101
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 199.5,
+                    "y": 53.5,
+                    "width": 73,
+                    "height": 95
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 310.5,
+                    "y": 341.5,
+                    "width": 137,
+                    "height": 175
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 184,
+                    "y": 242,
+                    "width": 98,
+                    "height": 144
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 57,
+                    "y": 247,
+                    "width": 108,
+                    "height": 148
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 644.5,
+                    "y": 420.5,
+                    "width": 109,
+                    "height": 145
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 702.5,
+                    "y": 257,
+                    "width": 99,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 417.5,
+                    "y": 165.5,
+                    "width": 101,
+                    "height": 147
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 584,
+                    "y": 215.5,
+                    "width": 110,
+                    "height": 145
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 183.5,
+                    "y": 455.5,
+                    "width": 157,
+                    "height": 219
+                }
+            }
+        ]
+    },
+    {
+        "image": "smartmi-3pcs-filter-mask-pm25-haze-dustproof-mask-with-vent_jpg.rf.23ce84d0cd7de25d814655d908bf475d.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 356.5,
+                    "y": 161.5,
+                    "width": 127,
+                    "height": 165
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 83.5,
+                    "y": 128,
+                    "width": 163,
+                    "height": 206
+                }
+            }
+        ]
+    },
+    {
+        "image": "upload-productImg-1527496119162_320_234_jpeg.rf.2630f815b6cc48c80dd42bf539300d26.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 254,
+                    "y": 267,
+                    "width": 410,
+                    "height": 464
+                }
+            }
+        ]
+    },
+    {
+        "image": "UDD3JG3E4JFQ5KSFNGQQ5REINU_jpg.rf.29625775de24b7ffdcccaf143b546669.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 631.5,
+                    "y": 118,
+                    "width": 69,
+                    "height": 60
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 818.5,
+                    "y": 151,
+                    "width": 79,
+                    "height": 96
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 976.5,
+                    "y": 130.5,
+                    "width": 67,
+                    "height": 85
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1046.5,
+                    "y": 322.5,
+                    "width": 71,
+                    "height": 117
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1124,
+                    "y": 317.5,
+                    "width": 144,
+                    "height": 185
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 962.5,
+                    "y": 242,
+                    "width": 95,
+                    "height": 134
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 849,
+                    "y": 272,
+                    "width": 120,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 703,
+                    "y": 252.5,
+                    "width": 100,
+                    "height": 119
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 625.5,
+                    "y": 197.5,
+                    "width": 69,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 598,
+                    "y": 165,
+                    "width": 68,
+                    "height": 74
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 548,
+                    "y": 174.5,
+                    "width": 46,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 496,
+                    "y": 167,
+                    "width": 76,
+                    "height": 92
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 323,
+                    "y": 181.5,
+                    "width": 78,
+                    "height": 83
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 227,
+                    "y": 183,
+                    "width": 68,
+                    "height": 72
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 52.5,
+                    "y": 202,
+                    "width": 93,
+                    "height": 106
+                }
+            }
+        ]
+    },
+    {
+        "image": "pic_list_out_2285_jpg.rf.397939882d421310a89ac13b244c8a6e.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 685.5,
+                    "y": 429.5,
+                    "width": 207,
+                    "height": 251
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 461.5,
+                    "y": 242,
+                    "width": 201,
+                    "height": 286
+                }
+            }
+        ]
+    },
+    {
+        "image": "1024x576_939430607723_jpg.rf.37f5013ec76b10fb64a6d8623a22ab92.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 854,
+                    "y": 164.5,
+                    "width": 110,
+                    "height": 133
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 636.5,
+                    "y": 205,
+                    "width": 81,
+                    "height": 96
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 525,
+                    "y": 111.5,
+                    "width": 88,
+                    "height": 113
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 409,
+                    "y": 131,
+                    "width": 88,
+                    "height": 104
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 161,
+                    "y": 174,
+                    "width": 86,
+                    "height": 106
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 41.5,
+                    "y": 143.5,
+                    "width": 73,
+                    "height": 101
+                }
+            }
+        ]
+    },
+    {
+        "image": "1125506397_15801322207071n_jpg.rf.28329b8b808690e5537d9bde5b8a0d91.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 809,
+                    "y": 50,
+                    "width": 70,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 671,
+                    "y": 70,
+                    "width": 78,
+                    "height": 102
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 478.5,
+                    "y": 179.5,
+                    "width": 71,
+                    "height": 93
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 413.5,
+                    "y": 93.5,
+                    "width": 69,
+                    "height": 89
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 355,
+                    "y": 119,
+                    "width": 46,
+                    "height": 58
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 252.5,
+                    "y": 107.5,
+                    "width": 83,
+                    "height": 103
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 169.5,
+                    "y": 72,
+                    "width": 65,
+                    "height": 78
+                }
+            }
+        ]
+    },
+    {
+        "image": "1579683152-0e3ba5698b090c0fda95caa5d2aa7b31_jpg.rf.3c5a6909252cc8ad7538ddb3b6a8c10d.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1006,
+                    "y": 249.5,
+                    "width": 412,
+                    "height": 489
+                }
+            }
+        ]
+    },
+    {
+        "image": "000b7b75-1600_jpg.rf.35b739ea6899972b07aab7225d341307.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 360,
+                    "y": 153,
+                    "width": 162,
+                    "height": 178
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1078.5,
+                    "y": 204,
+                    "width": 131,
+                    "height": 158
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1294,
+                    "y": 336.5,
+                    "width": 194,
+                    "height": 237
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 846.5,
+                    "y": 274,
+                    "width": 161,
+                    "height": 216
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 60,
+                    "y": 296.5,
+                    "width": 118,
+                    "height": 187
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 542.5,
+                    "y": 157,
+                    "width": 111,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 661.5,
+                    "y": 272.5,
+                    "width": 165,
+                    "height": 181
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 299,
+                    "y": 314.5,
+                    "width": 220,
+                    "height": 257
+                }
+            }
+        ]
+    },
+    {
+        "image": "1024x737_09186876046_jpg.rf.4197293e6ba3db18b6fbb185616dab6c.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 296.5,
+                    "y": 66.5,
+                    "width": 105,
+                    "height": 125
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 533.5,
+                    "y": 169,
+                    "width": 155,
+                    "height": 162
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 157.5,
+                    "width": 181,
+                    "height": 193
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 671.5,
+                    "y": 252,
+                    "width": 125,
+                    "height": 192
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 955.5,
+                    "y": 224.5,
+                    "width": 135,
+                    "height": 293
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 811.5,
+                    "y": 290.5,
+                    "width": 219,
+                    "height": 249
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 289.5,
+                    "y": 308,
+                    "width": 151,
+                    "height": 236
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 445.5,
+                    "y": 327,
+                    "width": 193,
+                    "height": 246
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 133.5,
+                    "y": 333.5,
+                    "width": 217,
+                    "height": 255
+                }
+            }
+        ]
+    },
+    {
+        "image": "0200b38c89b16c37c5de8e247bb00c2f_jpg.rf.4868c78878c91c2c7cc7062e90de7658.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 517.5,
+                    "y": 102,
+                    "width": 75,
+                    "height": 90
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 225,
+                    "y": 153.5,
+                    "width": 52,
+                    "height": 59
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 320.5,
+                    "y": 75.5,
+                    "width": 55,
+                    "height": 67
+                }
+            }
+        ]
+    },
+    {
+        "image": "RTX7CD4D-e1580252893876_jpg.rf.34b2faf56bf74f6c3edd88422a37355e.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1232,
+                    "y": 130.5,
+                    "width": 132,
+                    "height": 119
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 954,
+                    "y": 135,
+                    "width": 78,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 639.5,
+                    "y": 70,
+                    "width": 87,
+                    "height": 100
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 331.5,
+                    "y": 107.5,
+                    "width": 85,
+                    "height": 89
+                }
+            }
+        ]
+    },
+    {
+        "image": "1140-travelers-at-hong-kong-airport_jpg.rf.4dac1dff15755783b3941a24fcdd12ae.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 79.5,
+                    "y": 157.5,
+                    "width": 61,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 984,
+                    "y": 53.5,
+                    "width": 90,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 322.5,
+                    "y": 76.5,
+                    "width": 89,
+                    "height": 101
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 542.5,
+                    "y": 269,
+                    "width": 69,
+                    "height": 88
+                }
+            }
+        ]
+    },
+    {
+        "image": "003_1024_jpeg.rf.3d3235de8495eb432dc3c54d17287980.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 949,
+                    "y": 235,
+                    "width": 142,
+                    "height": 230
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 801,
+                    "y": 227.5,
+                    "width": 192,
+                    "height": 265
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 95,
+                    "y": 174,
+                    "width": 182,
+                    "height": 320
+                }
+            }
+        ]
+    },
+    {
+        "image": "101d6660a8974050b613dd2e6bd59390_jpg.rf.52e1b68968d7307fab23c6bf5fc3cbbe.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 810.5,
+                    "y": 246.5,
+                    "width": 107,
+                    "height": 141
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 521.5,
+                    "y": 169,
+                    "width": 103,
+                    "height": 144
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 445,
+                    "y": 279.5,
+                    "width": 108,
+                    "height": 137
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 194.5,
+                    "y": 252,
+                    "width": 125,
+                    "height": 140
+                }
+            }
+        ]
+    },
+    {
+        "image": "0602623232127-web-tete_jpg.rf.52602cb4d68c74a35808c767926ab622.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 255,
+                    "y": 218.5,
+                    "width": 102,
+                    "height": 143
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 602,
+                    "y": 276,
+                    "width": 200,
+                    "height": 226
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 624,
+                    "y": 41.5,
+                    "width": 66,
+                    "height": 79
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 423,
+                    "y": 40.5,
+                    "width": 74,
+                    "height": 77
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 803,
+                    "y": 129.5,
+                    "width": 88,
+                    "height": 109
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 497,
+                    "y": 114,
+                    "width": 106,
+                    "height": 128
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 167,
+                    "y": 107,
+                    "width": 124,
+                    "height": 134
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 164.5,
+                    "y": 548.5,
+                    "width": 123,
+                    "height": 135
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 407.5,
+                    "y": 329,
+                    "width": 149,
+                    "height": 206
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 689,
+                    "y": 69,
+                    "width": 90,
+                    "height": 110
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 861.5,
+                    "y": 160,
+                    "width": 107,
+                    "height": 132
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1098.5,
+                    "y": 149,
+                    "width": 187,
+                    "height": 212
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 917.5,
+                    "y": 452.5,
+                    "width": 199,
+                    "height": 265
+                }
+            }
+        ]
+    },
+    {
+        "image": "1580128422_jpg.rf.4496b0fe4afc307aa32966c8180bab49.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 240.5,
+                    "y": 381,
+                    "width": 113,
+                    "height": 130
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 876.5,
+                    "y": 406,
+                    "width": 107,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 753.5,
+                    "y": 333.5,
+                    "width": 87,
+                    "height": 127
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 617,
+                    "y": 375.5,
+                    "width": 116,
+                    "height": 133
+                }
+            }
+        ]
+    },
+    {
+        "image": "r1000019q679o5611r7_jpg.rf.4c8be6ea5c4f336654cb6f5bdb7db393.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 280,
+                    "y": 144,
+                    "width": 254,
+                    "height": 272
+                }
+            }
+        ]
+    },
+    {
+        "image": "phppaNXxb_jpg.rf.5778b5bbecd03d86b9a529fa381adccf.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 96.5,
+                    "y": 112,
+                    "width": 47,
+                    "height": 80
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 10.5,
+                    "y": 138.5,
+                    "width": 21,
+                    "height": 85
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 257,
+                    "y": 139,
+                    "width": 72,
+                    "height": 76
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 598.5,
+                    "y": 122.5,
+                    "width": 75,
+                    "height": 93
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 146,
+                    "y": 102.5,
+                    "width": 94,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 359.5,
+                    "y": 113.5,
+                    "width": 83,
+                    "height": 105
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 459.5,
+                    "y": 81.5,
+                    "width": 73,
+                    "height": 95
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 537,
+                    "y": 142.5,
+                    "width": 92,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 705,
+                    "y": 274,
+                    "width": 80,
+                    "height": 100
+                }
+            }
+        ]
+    },
+    {
+        "image": "rawImage_jpg.rf.5b637f36f129574b6e0931ecd3f63f7e.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1798.5,
+                    "y": 504.5,
+                    "width": 409,
+                    "height": 547
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1274,
+                    "y": 203,
+                    "width": 304,
+                    "height": 338
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 948,
+                    "y": 271,
+                    "width": 228,
+                    "height": 332
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 564,
+                    "y": 564,
+                    "width": 324,
+                    "height": 418
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 314.5,
+                    "y": 174,
+                    "width": 321,
+                    "height": 322
+                }
+            }
+        ]
+    },
+    {
+        "image": "shutterstock_584407723_jpg.rf.5535c41d1928154d8b5449d970e8a93f.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 826,
+                    "y": 167,
+                    "width": 72,
+                    "height": 82
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 575,
+                    "y": 199.5,
+                    "width": 96,
+                    "height": 135
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 362.5,
+                    "y": 218,
+                    "width": 83,
+                    "height": 94
+                }
+            }
+        ]
+    },
+    {
+        "image": "stsciRq_png.rf.66178fabcc0b39f7ec45ba1ff1b5d535.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 430.5,
+                    "y": 1415,
+                    "width": 313,
+                    "height": 340
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 418.5,
+                    "y": 686.5,
+                    "width": 437,
+                    "height": 527
+                }
+            }
+        ]
+    },
+    {
+        "image": "1580053154-5839_jpg.rf.54f3c805dfdfed25f320f6a5bba80000.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 164.5,
+                    "y": 195,
+                    "width": 181,
+                    "height": 244
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 766,
+                    "y": 80.5,
+                    "width": 116,
+                    "height": 155
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 977,
+                    "y": 116.5,
+                    "width": 160,
+                    "height": 219
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 703.5,
+                    "y": 178,
+                    "width": 131,
+                    "height": 232
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 552,
+                    "y": 159,
+                    "width": 156,
+                    "height": 204
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 308.5,
+                    "y": 247.5,
+                    "width": 183,
+                    "height": 279
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 660,
+                    "y": 399.5,
+                    "width": 170,
+                    "height": 255
+                }
+            }
+        ]
+    },
+    {
+        "image": "PHOTriZgIKIgsnNLdBJG75vj200203_1000x2000_jpg.rf.4dfc80ae4acc533c6120e47dd8e7fb1f.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 734.5,
+                    "y": 186,
+                    "width": 101,
+                    "height": 116
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 563,
+                    "y": 214,
+                    "width": 92,
+                    "height": 98
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 424.5,
+                    "y": 157,
+                    "width": 77,
+                    "height": 96
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 240.5,
+                    "y": 88,
+                    "width": 87,
+                    "height": 106
+                }
+            }
+        ]
+    },
+    {
+        "image": "-1x-1_jpg.rf.69d9b61e3cdb8a9047dad25099fcc8ef.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 103,
+                    "y": 35,
+                    "width": 142,
+                    "height": 68
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 636.5,
+                    "y": 63.5,
+                    "width": 147,
+                    "height": 123
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 839.5,
+                    "y": 73,
+                    "width": 131,
+                    "height": 136
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1160,
+                    "y": 247,
+                    "width": 156,
+                    "height": 198
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1081.5,
+                    "y": 319,
+                    "width": 181,
+                    "height": 230
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1850,
+                    "y": 427,
+                    "width": 186,
+                    "height": 228
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1628,
+                    "y": 239.5,
+                    "width": 164,
+                    "height": 201
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1548.5,
+                    "y": 602,
+                    "width": 213,
+                    "height": 248
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1346,
+                    "y": 164,
+                    "width": 176,
+                    "height": 224
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 256,
+                    "y": 892,
+                    "width": 500,
+                    "height": 588
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 521.5,
+                    "y": 202,
+                    "width": 187,
+                    "height": 222
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 691.5,
+                    "y": 205,
+                    "width": 191,
+                    "height": 266
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 970.5,
+                    "y": 544,
+                    "width": 209,
+                    "height": 282
+                }
+            }
+        ]
+    },
+    {
+        "image": "135e-huxwryw6451820_jpg.rf.7119d8f128c2493e3340654b03e2b6e3.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 277.5,
+                    "y": 320,
+                    "width": 455,
+                    "height": 636
+                }
+            }
+        ]
+    },
+    {
+        "image": "purchase-reauisition-5de4d0f99c77d_jpg.rf.656f7e39f5600537f91019731c9b25fc.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1095,
+                    "y": 498.5,
+                    "width": 48,
+                    "height": 59
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 85,
+                    "y": 620,
+                    "width": 166,
+                    "height": 188
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 115.5,
+                    "y": 476,
+                    "width": 135,
+                    "height": 134
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 383.5,
+                    "y": 484,
+                    "width": 133,
+                    "height": 204
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 494,
+                    "y": 490.5,
+                    "width": 202,
+                    "height": 233
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 676.5,
+                    "y": 479.5,
+                    "width": 69,
+                    "height": 133
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1015,
+                    "y": 503,
+                    "width": 70,
+                    "height": 120
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1435.5,
+                    "y": 488,
+                    "width": 91,
+                    "height": 130
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1269.5,
+                    "y": 432.5,
+                    "width": 325,
+                    "height": 311
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 846.5,
+                    "y": 374,
+                    "width": 379,
+                    "height": 470
+                }
+            }
+        ]
+    },
+    {
+        "image": "TB2R28UvUOWBKNjSZKzXXXfWFXa_!!1116877752_jpg.rf.68b5da162013bf7f4301937f553139a5.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 585.5,
+                    "y": 323.5,
+                    "width": 287,
+                    "height": 335
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 251,
+                    "y": 248.5,
+                    "width": 290,
+                    "height": 343
+                }
+            }
+        ]
+    },
+    {
+        "image": "Smog-Mask-PM2-5-Carbon-Filter-Face-Masks-Fog-Dust-Air-Cleaner-anti-pollution-Face-Protector_jpg.rf.6cfed8b6d7c3b9b71b2d6cd8e83da420.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 132.5,
+                    "y": 504.5,
+                    "width": 171,
+                    "height": 245
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 395.5,
+                    "y": 509,
+                    "width": 197,
+                    "height": 254
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 656.5,
+                    "y": 503,
+                    "width": 167,
+                    "height": 240
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 649.5,
+                    "y": 153.5,
+                    "width": 159,
+                    "height": 229
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 384,
+                    "y": 157,
+                    "width": 164,
+                    "height": 224
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 129,
+                    "y": 160,
+                    "width": 156,
+                    "height": 230
+                }
+            }
+        ]
+    },
+    {
+        "image": "1030611863_jpg.rf.7edae200febe5a5160fede9478f3e591.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 239,
+                    "y": 223.5,
+                    "width": 16,
+                    "height": 23
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 947.5,
+                    "y": 244,
+                    "width": 29,
+                    "height": 36
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 581,
+                    "y": 231,
+                    "width": 28,
+                    "height": 32
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 653.5,
+                    "y": 241.5,
+                    "width": 67,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 493.5,
+                    "y": 223.5,
+                    "width": 77,
+                    "height": 105
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 381.5,
+                    "y": 188.5,
+                    "width": 73,
+                    "height": 91
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 55,
+                    "y": 230.5,
+                    "width": 32,
+                    "height": 41
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 295,
+                    "y": 224,
+                    "width": 32,
+                    "height": 40
+                }
+            }
+        ]
+    },
+    {
+        "image": "1029731146_jpg.rf.79ab2cda85860fd020cfdc660f6368ec.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 88.5,
+                    "y": 148,
+                    "width": 121,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 862,
+                    "y": 167.5,
+                    "width": 174,
+                    "height": 231
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 495.5,
+                    "y": 182.5,
+                    "width": 237,
+                    "height": 327
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 216.5,
+                    "y": 238.5,
+                    "width": 161,
+                    "height": 231
+                }
+            }
+        ]
+    },
+    {
+        "image": "1155x768_20200129000089_jpg.rf.73137126ad09e8cf09315eb31ea51592.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 953,
+                    "y": 282.5,
+                    "width": 138,
+                    "height": 323
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 760.5,
+                    "y": 256,
+                    "width": 119,
+                    "height": 140
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 470.5,
+                    "y": 272.5,
+                    "width": 139,
+                    "height": 183
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 103,
+                    "y": 223.5,
+                    "width": 72,
+                    "height": 83
+                }
+            }
+        ]
+    },
+    {
+        "image": "shutterstock_289132226_jpg.rf.749c60ddb7bf3d9db9313ff21cb80f77.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 715.5,
+                    "y": 180.5,
+                    "width": 151,
+                    "height": 151
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 498,
+                    "y": 161.5,
+                    "width": 152,
+                    "height": 155
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 259,
+                    "y": 155,
+                    "width": 142,
+                    "height": 172
+                }
+            }
+        ]
+    },
+    {
+        "image": "soo(1)_jpg.rf.5ccb9b3550a3813e3023a3bb32a53904.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1231.5,
+                    "y": 583,
+                    "width": 83,
+                    "height": 102
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1309.5,
+                    "y": 509,
+                    "width": 99,
+                    "height": 108
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1502,
+                    "y": 528,
+                    "width": 144,
+                    "height": 136
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 910,
+                    "y": 291,
+                    "width": 138,
+                    "height": 180
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 607,
+                    "y": 290,
+                    "width": 202,
+                    "height": 198
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 332,
+                    "y": 320.5,
+                    "width": 174,
+                    "height": 203
+                }
+            }
+        ]
+    },
+    {
+        "image": "US-expands-coronavirus-screenings-United-suspends-some-flights-to-China_jpg.rf.7684e0ecdea4004bc109f5482badee55.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 338,
+                    "y": 155,
+                    "width": 194,
+                    "height": 198
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 583.5,
+                    "y": 147.5,
+                    "width": 257,
+                    "height": 249
+                }
+            }
+        ]
+    },
+    {
+        "image": "soooo_jpg.rf.6e7754eae524b488b9d6cbacaa578592.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 708.5,
+                    "y": 75,
+                    "width": 173,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 626,
+                    "y": 161.5,
+                    "width": 72,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 284,
+                    "y": 296.5,
+                    "width": 168,
+                    "height": 161
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 218.5,
+                    "y": 167,
+                    "width": 89,
+                    "height": 84
+                }
+            }
+        ]
+    },
+    {
+        "image": "unnamed_jpg.rf.8bacd81300f96cc2abf8845595a2e160.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 378,
+                    "y": 65.5,
+                    "width": 36,
+                    "height": 43
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 330,
+                    "y": 38,
+                    "width": 38,
+                    "height": 42
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 223,
+                    "y": 68.5,
+                    "width": 34,
+                    "height": 41
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 230.5,
+                    "y": 94,
+                    "width": 45,
+                    "height": 52
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 201.5,
+                    "y": 109.5,
+                    "width": 57,
+                    "height": 61
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 347,
+                    "y": 86,
+                    "width": 44,
+                    "height": 50
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 443.5,
+                    "y": 38,
+                    "width": 35,
+                    "height": 38
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 452.5,
+                    "y": 71.5,
+                    "width": 33,
+                    "height": 49
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 410.5,
+                    "y": 84.5,
+                    "width": 53,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 454.5,
+                    "y": 136.5,
+                    "width": 77,
+                    "height": 83
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 275,
+                    "y": 76.5,
+                    "width": 78,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 42.5,
+                    "y": 66,
+                    "width": 61,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 93.5,
+                    "y": 119.5,
+                    "width": 93,
+                    "height": 99
+                }
+            }
+        ]
+    },
+    {
+        "image": "thumbnail-ba5c72edb320b49a69e86b05775c49b2-scaled-1_jpeg.rf.895025faf5bf05dfb07e227090cb5d56.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 643.5,
+                    "y": 152,
+                    "width": 41,
+                    "height": 52
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 225.5,
+                    "y": 163.5,
+                    "width": 35,
+                    "height": 37
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 965.5,
+                    "y": 64,
+                    "width": 103,
+                    "height": 124
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 716.5,
+                    "y": 111.5,
+                    "width": 103,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 547,
+                    "y": 101,
+                    "width": 98,
+                    "height": 110
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 438.5,
+                    "y": 88.5,
+                    "width": 83,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 295,
+                    "y": 138.5,
+                    "width": 74,
+                    "height": 87
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 161.5,
+                    "y": 118,
+                    "width": 65,
+                    "height": 72
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 62.5,
+                    "y": 124,
+                    "width": 71,
+                    "height": 72
+                }
+            }
+        ]
+    },
+    {
+        "image": "1000x-1_jpg.rf.8ec74a748fd78ac625bf40b9cc3f276d.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 959.5,
+                    "y": 291,
+                    "width": 77,
+                    "height": 164
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 553,
+                    "y": 174.5,
+                    "width": 116,
+                    "height": 177
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 877,
+                    "y": 242.5,
+                    "width": 140,
+                    "height": 211
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 771,
+                    "y": 488.5,
+                    "width": 172,
+                    "height": 235
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 201,
+                    "y": 224,
+                    "width": 110,
+                    "height": 184
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 664,
+                    "y": 187,
+                    "width": 116,
+                    "height": 170
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 299,
+                    "y": 418,
+                    "width": 142,
+                    "height": 198
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 478,
+                    "y": 234,
+                    "width": 122,
+                    "height": 186
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 98,
+                    "y": 231,
+                    "width": 150,
+                    "height": 202
+                }
+            }
+        ]
+    },
+    {
+        "image": "thai_cov-transmission030220_jpg.rf.91be1af29fa03c14769c8547e6b38978.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1160,
+                    "y": 100.5,
+                    "width": 78,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 747.5,
+                    "y": 176,
+                    "width": 63,
+                    "height": 136
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 486.5,
+                    "y": 135,
+                    "width": 151,
+                    "height": 232
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 333.5,
+                    "y": 91,
+                    "width": 231,
+                    "height": 178
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 577,
+                    "y": 181.5,
+                    "width": 96,
+                    "height": 173
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 665.5,
+                    "y": 152,
+                    "width": 115,
+                    "height": 168
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1398.5,
+                    "y": 177.5,
+                    "width": 63,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1208,
+                    "y": 160.5,
+                    "width": 74,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1283,
+                    "y": 152,
+                    "width": 132,
+                    "height": 134
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1121,
+                    "y": 167.5,
+                    "width": 128,
+                    "height": 141
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 966,
+                    "y": 105.5,
+                    "width": 124,
+                    "height": 145
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1002,
+                    "y": 208,
+                    "width": 140,
+                    "height": 172
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1032,
+                    "y": 440,
+                    "width": 160,
+                    "height": 186
+                }
+            }
+        ]
+    },
+    {
+        "image": "IMG_5690 2_jpg.rf.7198a97a65ae7dde21284ca6e356f7a8.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 337,
+                    "y": 2326,
+                    "width": 208,
+                    "height": 218
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1857,
+                    "y": 1909.5,
+                    "width": 482,
+                    "height": 629
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1109,
+                    "y": 1973.5,
+                    "width": 524,
+                    "height": 667
+                }
+            }
+        ]
+    },
+    {
+        "image": "001_1024_jpeg.rf.82de51e9c6db87b2941a34e6c65de14a.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 888.5,
+                    "y": 371.5,
+                    "width": 57,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 827,
+                    "y": 284,
+                    "width": 84,
+                    "height": 92
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 746.5,
+                    "y": 332,
+                    "width": 75,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 663,
+                    "y": 283.5,
+                    "width": 116,
+                    "height": 107
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 289.5,
+                    "y": 99,
+                    "width": 171,
+                    "height": 198
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 536,
+                    "y": 193,
+                    "width": 128,
+                    "height": 148
+                }
+            }
+        ]
+    },
+    {
+        "image": "004_1024_jpeg.rf.8387cade019b2c139de783457af677ae.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 450,
+                    "y": 189.5,
+                    "width": 248,
+                    "height": 283
+                }
+            }
+        ]
+    },
+    {
+        "image": "1303078448-China-Coronavirus-Death-Toll-Hits-304_jpg.rf.867ecfe8a19d95c4f6a3a59f0bcc963e.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 271.5,
+                    "y": 108.5,
+                    "width": 133,
+                    "height": 185
+                }
+            }
+        ]
+    },
+    {
+        "image": "1580048340614_jpg.rf.83b5517bbfbf2e2ac0b103bec1bd4dfd.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 298.5,
+                    "y": 192,
+                    "width": 83,
+                    "height": 122
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 667.5,
+                    "y": 66.5,
+                    "width": 65,
+                    "height": 79
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 741.5,
+                    "y": 454.5,
+                    "width": 197,
+                    "height": 209
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 653,
+                    "y": 210,
+                    "width": 100,
+                    "height": 178
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 945,
+                    "y": 223.5,
+                    "width": 96,
+                    "height": 139
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 916,
+                    "y": 86.5,
+                    "width": 76,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 774,
+                    "y": 214,
+                    "width": 96,
+                    "height": 128
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 549,
+                    "y": 206,
+                    "width": 144,
+                    "height": 202
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 416,
+                    "y": 266.5,
+                    "width": 114,
+                    "height": 157
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 265,
+                    "y": 316.5,
+                    "width": 130,
+                    "height": 187
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 95.5,
+                    "y": 380.5,
+                    "width": 179,
+                    "height": 277
+                }
+            }
+        ]
+    },
+    {
+        "image": "W37H3GWNO5EV5HTJQNP4KLIRGI_jpg.rf.71c3c2741aa5f60a7d0a569679b2796c.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 614.5,
+                    "y": 191,
+                    "width": 243,
+                    "height": 240
+                }
+            }
+        ]
+    },
+    {
+        "image": "1579928067_250120120154270000005e2bca03bf464_jpg.rf.8f9bd39325ed77b8f7d31f4847f1f2bb.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 880.5,
+                    "y": 110.5,
+                    "width": 63,
+                    "height": 71
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 780.5,
+                    "y": 87.5,
+                    "width": 59,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 128.5,
+                    "y": 101,
+                    "width": 57,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 238,
+                    "y": 101,
+                    "width": 106,
+                    "height": 122
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 682,
+                    "y": 133,
+                    "width": 28,
+                    "height": 40
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 578.5,
+                    "y": 123.5,
+                    "width": 29,
+                    "height": 39
+                }
+            }
+        ]
+    },
+    {
+        "image": "so(19)_jpg.rf.97eeeb08001d4cbdb544ac3a57ff5ef3.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1394.5,
+                    "y": 475.5,
+                    "width": 281,
+                    "height": 281
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 814,
+                    "y": 313.5,
+                    "width": 196,
+                    "height": 199
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 326.5,
+                    "y": 480,
+                    "width": 193,
+                    "height": 160
+                }
+            }
+        ]
+    },
+    {
+        "image": "TASS38012699_jpg.rf.92600e25dc48c12c43d41929c45756ac.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 866,
+                    "y": 388.5,
+                    "width": 60,
+                    "height": 65
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1096.5,
+                    "y": 469.5,
+                    "width": 95,
+                    "height": 103
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 948.5,
+                    "y": 601,
+                    "width": 141,
+                    "height": 150
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 150,
+                    "y": 332.5,
+                    "width": 88,
+                    "height": 119
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 843,
+                    "y": 562,
+                    "width": 152,
+                    "height": 148
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 751.5,
+                    "y": 286.5,
+                    "width": 81,
+                    "height": 89
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1323,
+                    "y": 438,
+                    "width": 68,
+                    "height": 130
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 623,
+                    "y": 162,
+                    "width": 128,
+                    "height": 154
+                }
+            }
+        ]
+    },
+    {
+        "image": "0450908675_50159485_mutation-virus-chine-inquietude_jpg.rf.9c1d5309c1b4ecea3fda137b207462df.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1378.5,
+                    "y": 162,
+                    "width": 187,
+                    "height": 212
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 972.5,
+                    "y": 92.5,
+                    "width": 177,
+                    "height": 183
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1087.5,
+                    "y": 444.5,
+                    "width": 165,
+                    "height": 169
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 497.5,
+                    "y": 83.5,
+                    "width": 163,
+                    "height": 165
+                }
+            }
+        ]
+    },
+    {
+        "image": "r1000019q689461s9r0_jpg.rf.a9a68a09d726331332a9a5eb0087e5b9.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 458.5,
+                    "y": 226,
+                    "width": 189,
+                    "height": 224
+                }
+            }
+        ]
+    },
+    {
+        "image": "sdsdsff_jpg.rf.a8a15416549f7048fee1764231a9d0eb.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 410,
+                    "y": 95,
+                    "width": 54,
+                    "height": 62
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 335,
+                    "y": 99,
+                    "width": 62,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 227.5,
+                    "y": 111.5,
+                    "width": 51,
+                    "height": 57
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 132,
+                    "y": 97,
+                    "width": 44,
+                    "height": 56
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 30,
+                    "y": 105,
+                    "width": 44,
+                    "height": 52
+                }
+            }
+        ]
+    },
+    {
+        "image": "RZXE24HFK5GSVKVSN57VCVPQ4M_jpg.rf.9fa4f828cb9b4ee616446dff730d55f8.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 521,
+                    "y": 169.5,
+                    "width": 56,
+                    "height": 59
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 549.5,
+                    "y": 228.5,
+                    "width": 67,
+                    "height": 69
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 995.5,
+                    "y": 182,
+                    "width": 109,
+                    "height": 118
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 467.5,
+                    "y": 185,
+                    "width": 47,
+                    "height": 50
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 607,
+                    "y": 186.5,
+                    "width": 62,
+                    "height": 69
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 784.5,
+                    "y": 221.5,
+                    "width": 99,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 906,
+                    "y": 222.5,
+                    "width": 76,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1108.5,
+                    "y": 216.5,
+                    "width": 83,
+                    "height": 115
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 301.5,
+                    "y": 154,
+                    "width": 73,
+                    "height": 92
+                }
+            }
+        ]
+    },
+    {
+        "image": "15-08608-001_jpg.rf.b6002e422a9fa0b261b1c038574326d8.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 147.5,
+                    "y": 188,
+                    "width": 105,
+                    "height": 140
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 661.5,
+                    "y": 183.5,
+                    "width": 91,
+                    "height": 131
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 544,
+                    "y": 74.5,
+                    "width": 92,
+                    "height": 133
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 270,
+                    "y": 108,
+                    "width": 82,
+                    "height": 142
+                }
+            }
+        ]
+    },
+    {
+        "image": "125895-untitled-design-30_jpg.rf.ac571fc87624d715f65c707a55fb6bc8.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 725,
+                    "y": 19,
+                    "width": 30,
+                    "height": 38
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 511.5,
+                    "y": 31,
+                    "width": 43,
+                    "height": 48
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 368.5,
+                    "y": 16.5,
+                    "width": 29,
+                    "height": 27
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 419,
+                    "y": 26.5,
+                    "width": 32,
+                    "height": 33
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 240.5,
+                    "y": 39.5,
+                    "width": 49,
+                    "height": 67
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 212,
+                    "y": 63,
+                    "width": 50,
+                    "height": 72
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 155.5,
+                    "y": 295,
+                    "width": 111,
+                    "height": 132
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 312.5,
+                    "y": 241,
+                    "width": 77,
+                    "height": 110
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 383.5,
+                    "y": 145.5,
+                    "width": 71,
+                    "height": 89
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 497.5,
+                    "y": 119.5,
+                    "width": 63,
+                    "height": 85
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 521.5,
+                    "y": 195.5,
+                    "width": 75,
+                    "height": 95
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 600.5,
+                    "y": 112,
+                    "width": 71,
+                    "height": 86
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 746.5,
+                    "y": 68,
+                    "width": 47,
+                    "height": 64
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 784,
+                    "y": 22.5,
+                    "width": 44,
+                    "height": 39
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 687,
+                    "y": 60.5,
+                    "width": 40,
+                    "height": 51
+                }
+            }
+        ]
+    },
+    {
+        "image": "1482202839575_jpg.rf.96a5e5e802e33ad574636b271b779c99.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 214,
+                    "y": 297.5,
+                    "width": 48,
+                    "height": 67
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 938,
+                    "y": 280.5,
+                    "width": 74,
+                    "height": 93
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1101,
+                    "y": 253.5,
+                    "width": 82,
+                    "height": 91
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 603.5,
+                    "y": 219,
+                    "width": 93,
+                    "height": 106
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 805,
+                    "y": 210,
+                    "width": 86,
+                    "height": 94
+                }
+            }
+        ]
+    },
+    {
+        "image": "w1240-p16x9-5f8aa310737f8e0e6c43d95a68a82b03b6f60106_jpg.rf.a456219c83b48269ce5adb48d513a350.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1001,
+                    "y": 139.5,
+                    "width": 64,
+                    "height": 67
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 94.5,
+                    "y": 136,
+                    "width": 93,
+                    "height": 120
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 206.5,
+                    "y": 176.5,
+                    "width": 97,
+                    "height": 113
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 362.5,
+                    "y": 116.5,
+                    "width": 69,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 446,
+                    "y": 105.5,
+                    "width": 84,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 580,
+                    "y": 150,
+                    "width": 74,
+                    "height": 84
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 757,
+                    "y": 175.5,
+                    "width": 56,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1167,
+                    "y": 133.5,
+                    "width": 82,
+                    "height": 101
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1091.5,
+                    "y": 119,
+                    "width": 85,
+                    "height": 98
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 937,
+                    "y": 127.5,
+                    "width": 86,
+                    "height": 103
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 872.5,
+                    "y": 198,
+                    "width": 113,
+                    "height": 140
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 813,
+                    "y": 181,
+                    "width": 102,
+                    "height": 138
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 706.5,
+                    "y": 147.5,
+                    "width": 75,
+                    "height": 107
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 501.5,
+                    "y": 155.5,
+                    "width": 73,
+                    "height": 89
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 422,
+                    "y": 172,
+                    "width": 104,
+                    "height": 100
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 543.5,
+                    "y": 313,
+                    "width": 113,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 642.5,
+                    "y": 141,
+                    "width": 77,
+                    "height": 96
+                }
+            }
+        ]
+    },
+    {
+        "image": "-I1-MS09uaqsLdGTFkgnS0Rcg1mmPyAj95ySg_eckoM_jpeg.rf.b60002517c9371bba207314a49452cf1.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 493,
+                    "y": 271.5,
+                    "width": 296,
+                    "height": 293
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1616.5,
+                    "y": 748,
+                    "width": 101,
+                    "height": 102
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1048.5,
+                    "y": 195,
+                    "width": 291,
+                    "height": 304
+                }
+            }
+        ]
+    },
+    {
+        "image": "012420_coronoa_masks_web_jpg.rf.aa87c46891116535f04447105006c814.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 220.5,
+                    "y": 351.5,
+                    "width": 179,
+                    "height": 205
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1584,
+                    "y": 39,
+                    "width": 106,
+                    "height": 66
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1787.5,
+                    "y": 545,
+                    "width": 193,
+                    "height": 256
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1720,
+                    "y": 164.5,
+                    "width": 166,
+                    "height": 235
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1443.5,
+                    "y": 99.5,
+                    "width": 163,
+                    "height": 177
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1233,
+                    "y": 363,
+                    "width": 184,
+                    "height": 222
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1260.5,
+                    "y": 94.5,
+                    "width": 159,
+                    "height": 179
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 947,
+                    "y": 94,
+                    "width": 172,
+                    "height": 168
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 497.5,
+                    "y": 89.5,
+                    "width": 157,
+                    "height": 165
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 945.5,
+                    "y": 289.5,
+                    "width": 163,
+                    "height": 207
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 998,
+                    "y": 694.5,
+                    "width": 184,
+                    "height": 235
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1105.5,
+                    "y": 805.5,
+                    "width": 217,
+                    "height": 243
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 732,
+                    "y": 952.5,
+                    "width": 210,
+                    "height": 215
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 98,
+                    "y": 882,
+                    "width": 184,
+                    "height": 262
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 316.5,
+                    "y": 678,
+                    "width": 143,
+                    "height": 202
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 242,
+                    "y": 764,
+                    "width": 180,
+                    "height": 226
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 134,
+                    "y": 198.5,
+                    "width": 172,
+                    "height": 187
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 549,
+                    "y": 379,
+                    "width": 200,
+                    "height": 214
+                }
+            }
+        ]
+    },
+    {
+        "image": "so(24) (1)_jpg.rf.c3be9c3a5b0a4cfc31163890ef75878a.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1213.5,
+                    "y": 406.5,
+                    "width": 317,
+                    "height": 307
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 859.5,
+                    "y": 460,
+                    "width": 191,
+                    "height": 192
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 605.5,
+                    "y": 470,
+                    "width": 63,
+                    "height": 102
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 535,
+                    "y": 457,
+                    "width": 122,
+                    "height": 134
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 340,
+                    "y": 204,
+                    "width": 304,
+                    "height": 326
+                }
+            }
+        ]
+    },
+    {
+        "image": "PRI_129079114_1580299603_195_jpg.rf.bdee5eb2f33604b0a266cb99611d37a4.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1404,
+                    "y": 783.5,
+                    "width": 578,
+                    "height": 789
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 703,
+                    "y": 631.5,
+                    "width": 818,
+                    "height": 1021
+                }
+            }
+        ]
+    },
+    {
+        "image": "r1p00017o8357s6sno6_jpg.rf.adeceb3bde01bf771fb86d3494cdc1c6.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 360,
+                    "y": 134,
+                    "width": 202,
+                    "height": 256
+                }
+            }
+        ]
+    },
+    {
+        "image": "virus_protection123_jpg.rf.b863088fea960d1630687e0d59cbce9a.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 624,
+                    "y": 96,
+                    "width": 154,
+                    "height": 188
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 376.5,
+                    "y": 139,
+                    "width": 111,
+                    "height": 136
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 223.5,
+                    "y": 102.5,
+                    "width": 103,
+                    "height": 117
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 78.5,
+                    "y": 164,
+                    "width": 93,
+                    "height": 92
+                }
+            }
+        ]
+    },
+    {
+        "image": "w1240-p16x9-6f1db5e0460631cfa98d2d6d8032942f81700bb0_jpg.rf.c35a2f1369d4d99b16a229d0f0d443e4.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1131.5,
+                    "y": 159,
+                    "width": 209,
+                    "height": 304
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 913.5,
+                    "y": 229,
+                    "width": 257,
+                    "height": 326
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 564,
+                    "y": 352,
+                    "width": 276,
+                    "height": 296
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 228,
+                    "y": 462,
+                    "width": 228,
+                    "height": 246
+                }
+            }
+        ]
+    },
+    {
+        "image": "sgssgg_jpeg.rf.a62f9109a5f44bf8f88b9fd632b8e4de.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 176.5,
+                    "y": 443,
+                    "width": 93,
+                    "height": 152
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 83,
+                    "y": 421.5,
+                    "width": 162,
+                    "height": 189
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 298,
+                    "y": 525,
+                    "width": 138,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 343.5,
+                    "y": 321.5,
+                    "width": 107,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 431,
+                    "y": 285,
+                    "width": 86,
+                    "height": 104
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 619.5,
+                    "y": 378,
+                    "width": 115,
+                    "height": 118
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 689,
+                    "y": 277.5,
+                    "width": 98,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 851,
+                    "y": 345.5,
+                    "width": 86,
+                    "height": 105
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 962.5,
+                    "y": 401,
+                    "width": 95,
+                    "height": 104
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1073,
+                    "y": 461.5,
+                    "width": 130,
+                    "height": 167
+                }
+            }
+        ]
+    },
+    {
+        "image": "0002526673_jpg.rf.a13de6faa0e2e5250d913ccf27b4c769.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 191.5,
+                    "y": 249.5,
+                    "width": 43,
+                    "height": 45
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 452.5,
+                    "y": 245,
+                    "width": 121,
+                    "height": 142
+                }
+            }
+        ]
+    },
+    {
+        "image": "012106_jpg_1140x855_jpg.rf.b2002b96c6972613f93d98f69f0efdee.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 795.5,
+                    "y": 282,
+                    "width": 367,
+                    "height": 474
+                }
+            }
+        ]
+    },
+    {
+        "image": "1422808187-3291816118_jpg.rf.c4f6e44a8611a820f164374b8cc11c17.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 394.5,
+                    "y": 294.5,
+                    "width": 275,
+                    "height": 325
+                }
+            }
+        ]
+    },
+    {
+        "image": "virus_jpg.rf.b9f52d79c98588703b7d55cfc9cd7a78.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 716,
+                    "y": 193,
+                    "width": 82,
+                    "height": 72
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 584.5,
+                    "y": 182,
+                    "width": 87,
+                    "height": 94
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 366,
+                    "y": 216,
+                    "width": 72,
+                    "height": 70
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 243,
+                    "y": 166.5,
+                    "width": 82,
+                    "height": 73
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 83.5,
+                    "y": 103,
+                    "width": 109,
+                    "height": 114
+                }
+            }
+        ]
+    },
+    {
+        "image": "1152x768_246964803156_jpg.rf.93e4584edd0a741914cf795c2087200d.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 497,
+                    "y": 151.5,
+                    "width": 88,
+                    "height": 101
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 86,
+                    "y": 160.5,
+                    "width": 40,
+                    "height": 67
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 58,
+                    "y": 104.5,
+                    "width": 50,
+                    "height": 59
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 677,
+                    "y": 104.5,
+                    "width": 60,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 181,
+                    "y": 153.5,
+                    "width": 74,
+                    "height": 85
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 829.5,
+                    "y": 81.5,
+                    "width": 89,
+                    "height": 119
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 599.5,
+                    "y": 110,
+                    "width": 65,
+                    "height": 82
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 258.5,
+                    "y": 99,
+                    "width": 55,
+                    "height": 60
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 357.5,
+                    "y": 119,
+                    "width": 61,
+                    "height": 86
+                }
+            }
+        ]
+    },
+    {
+        "image": "1477443223-1445746883_jpg.rf.c73a19f37296ace6c3cd12ba54eec28a.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 616,
+                    "y": 212,
+                    "width": 252,
+                    "height": 314
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 134.5,
+                    "y": 198.5,
+                    "width": 217,
+                    "height": 249
+                }
+            }
+        ]
+    },
+    {
+        "image": "ST_20190917_SPTHAZE_5120715_jpg.rf.a9db11227a9e6e324c5a57d0ad8716cd.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 693,
+                    "y": 51.5,
+                    "width": 124,
+                    "height": 95
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 504.5,
+                    "y": 50.5,
+                    "width": 93,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 347,
+                    "y": 49,
+                    "width": 90,
+                    "height": 98
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 334.5,
+                    "y": 191.5,
+                    "width": 143,
+                    "height": 163
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 583,
+                    "y": 190.5,
+                    "width": 132,
+                    "height": 155
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 319.5,
+                    "y": 404.5,
+                    "width": 327,
+                    "height": 223
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 108,
+                    "y": 131.5,
+                    "width": 156,
+                    "height": 209
+                }
+            }
+        ]
+    },
+    {
+        "image": "rally-against-an-anti-mask-law-meant-to-deter-anti-government-protesters-in-hong-kong-china-shutterstock-editorial-10435716z_jpg.rf.c062c7b234046ead0701f794e6311faf.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 386,
+                    "y": 290.5,
+                    "width": 94,
+                    "height": 101
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1415.5,
+                    "y": 462.5,
+                    "width": 85,
+                    "height": 85
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1382,
+                    "y": 356,
+                    "width": 64,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1138.5,
+                    "y": 425.5,
+                    "width": 69,
+                    "height": 75
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1358.5,
+                    "y": 431.5,
+                    "width": 85,
+                    "height": 103
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1055.5,
+                    "y": 422,
+                    "width": 85,
+                    "height": 118
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1245.5,
+                    "y": 320.5,
+                    "width": 199,
+                    "height": 225
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 751,
+                    "y": 163,
+                    "width": 168,
+                    "height": 200
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 376.5,
+                    "y": 380,
+                    "width": 103,
+                    "height": 122
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 209,
+                    "y": 335,
+                    "width": 174,
+                    "height": 252
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 84.5,
+                    "y": 451.5,
+                    "width": 135,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 65,
+                    "y": 296.5,
+                    "width": 112,
+                    "height": 141
+                }
+            }
+        ]
+    },
+    {
+        "image": "1-200102094256105_png.rf.d2ed0c139e4e35ee8889a3a8379348fb.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 389,
+                    "y": 252.5,
+                    "width": 328,
+                    "height": 407
+                }
+            }
+        ]
+    },
+    {
+        "image": "PhotoGrid_1580452532909_jpg.rf.d262d228da16f4c2dd6e613288aee5df.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1756,
+                    "y": 284,
+                    "width": 112,
+                    "height": 124
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1532,
+                    "y": 307,
+                    "width": 122,
+                    "height": 122
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1365.5,
+                    "y": 275,
+                    "width": 107,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1203,
+                    "y": 279.5,
+                    "width": 100,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1043.5,
+                    "y": 240.5,
+                    "width": 93,
+                    "height": 103
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 811.5,
+                    "y": 248,
+                    "width": 105,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 613.5,
+                    "y": 214.5,
+                    "width": 95,
+                    "height": 113
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 507.5,
+                    "y": 176.5,
+                    "width": 85,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 422.5,
+                    "y": 263,
+                    "width": 103,
+                    "height": 126
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 251,
+                    "y": 260,
+                    "width": 108,
+                    "height": 126
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 59,
+                    "y": 249,
+                    "width": 102,
+                    "height": 128
+                }
+            }
+        ]
+    },
+    {
+        "image": "0209-00176-076b1_jpg.rf.c95d18e12451276a0312e27c9389ef4c.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 83.5,
+                    "y": 27,
+                    "width": 47,
+                    "height": 54
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 160,
+                    "y": 90,
+                    "width": 90,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 503,
+                    "y": 83,
+                    "width": 114,
+                    "height": 148
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 276.5,
+                    "y": 94.5,
+                    "width": 101,
+                    "height": 115
+                }
+            }
+        ]
+    },
+    {
+        "image": "skynews-coronavirus-london-fashion-week_4920359_jpg.rf.cc22ab2e0f2d8f3472a7ddcfa6177fb7.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 549.5,
+                    "y": 679,
+                    "width": 379,
+                    "height": 428
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 973,
+                    "y": 544.5,
+                    "width": 404,
+                    "height": 417
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1593,
+                    "y": 502.5,
+                    "width": 394,
+                    "height": 441
+                }
+            }
+        ]
+    },
+    {
+        "image": "0_10725_jpg.rf.cde494b05911f991c3cc31c8670044b9.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 497.5,
+                    "y": 255.5,
+                    "width": 99,
+                    "height": 111
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 183.5,
+                    "y": 160,
+                    "width": 83,
+                    "height": 96
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 408,
+                    "y": 149.5,
+                    "width": 88,
+                    "height": 97
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 133,
+                    "y": 255.5,
+                    "width": 100,
+                    "height": 119
+                }
+            }
+        ]
+    },
+    {
+        "image": "1539151332674193npsrq70_jpg.rf.e5f5500c15efd9f28d6bb2536dbba4fe.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 261,
+                    "y": 129.5,
+                    "width": 116,
+                    "height": 129
+                }
+            }
+        ]
+    },
+    {
+        "image": "1580173904-0001oc33f_jpg.rf.e46d2ed9d2510b71264546bc047bf9df.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 385,
+                    "y": 238.5,
+                    "width": 32,
+                    "height": 37
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 17.5,
+                    "y": 235,
+                    "width": 31,
+                    "height": 52
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 532.5,
+                    "y": 251,
+                    "width": 25,
+                    "height": 40
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 52.5,
+                    "y": 292.5,
+                    "width": 73,
+                    "height": 77
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 141,
+                    "y": 250.5,
+                    "width": 30,
+                    "height": 41
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 314,
+                    "y": 226.5,
+                    "width": 34,
+                    "height": 45
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 392,
+                    "y": 307.5,
+                    "width": 72,
+                    "height": 87
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 95,
+                    "y": 357,
+                    "width": 96,
+                    "height": 88
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 236.5,
+                    "y": 276.5,
+                    "width": 115,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 764,
+                    "y": 271,
+                    "width": 44,
+                    "height": 54
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 813.5,
+                    "y": 323.5,
+                    "width": 73,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 693,
+                    "y": 311.5,
+                    "width": 74,
+                    "height": 85
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 474,
+                    "y": 285.5,
+                    "width": 80,
+                    "height": 119
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 555.5,
+                    "y": 401,
+                    "width": 117,
+                    "height": 146
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1131.5,
+                    "y": 463,
+                    "width": 83,
+                    "height": 182
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1024,
+                    "y": 393,
+                    "width": 206,
+                    "height": 284
+                }
+            }
+        ]
+    },
+    {
+        "image": "ST_20170401_EASAND_3046471_jpg.rf.ca0eebad80feebefc05d7c52c0f11d65.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 697.5,
+                    "y": 67,
+                    "width": 97,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 649,
+                    "y": 83.5,
+                    "width": 66,
+                    "height": 99
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 578.5,
+                    "y": 81,
+                    "width": 95,
+                    "height": 114
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 501.5,
+                    "y": 101.5,
+                    "width": 79,
+                    "height": 115
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 444,
+                    "y": 134,
+                    "width": 88,
+                    "height": 112
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 385,
+                    "y": 115,
+                    "width": 80,
+                    "height": 108
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 190,
+                    "y": 134.5,
+                    "width": 96,
+                    "height": 109
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 50.5,
+                    "y": 133,
+                    "width": 85,
+                    "height": 106
+                }
+            }
+        ]
+    },
+    {
+        "image": "sars-gettyimages-157005245_jpg.rf.e6d5283c235edb22b1eb63fc0f8e47e9.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1161.5,
+                    "y": 308,
+                    "width": 41,
+                    "height": 60
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 857,
+                    "y": 326.5,
+                    "width": 166,
+                    "height": 169
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 362,
+                    "y": 230,
+                    "width": 404,
+                    "height": 408
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 225,
+                    "y": 359.5,
+                    "width": 212,
+                    "height": 289
+                }
+            }
+        ]
+    },
+    {
+        "image": "1288788-une-employee-aide-des-voyageurs-en-provenance-de-chine-le-26-janvier-2020-a-l-aeroport-de-roissy_jpg.rf.d47cf1cb16e3f73965871b18e510cf8b.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 901.5,
+                    "y": 82,
+                    "width": 109,
+                    "height": 148
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 469.5,
+                    "y": 237.5,
+                    "width": 155,
+                    "height": 225
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 630.5,
+                    "y": 235,
+                    "width": 141,
+                    "height": 196
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 334,
+                    "y": 118.5,
+                    "width": 142,
+                    "height": 211
+                }
+            }
+        ]
+    },
+    {
+        "image": "1125506397_15801322207531n_jpg.rf.e14312be41c570c14c752fd250256aa3.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 723,
+                    "y": 180,
+                    "width": 62,
+                    "height": 78
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 464.5,
+                    "y": 188.5,
+                    "width": 59,
+                    "height": 81
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 257.5,
+                    "y": 140,
+                    "width": 61,
+                    "height": 80
+                }
+            }
+        ]
+    },
+    {
+        "image": "Surgical-Mask-Effectiveness_jpg.rf.f1df6e057fc624a11625a316cc488d98.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 654.5,
+                    "y": 248.5,
+                    "width": 375,
+                    "height": 441
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 320,
+                    "y": 250.5,
+                    "width": 362,
+                    "height": 399
+                }
+            }
+        ]
+    },
+    {
+        "image": "1042977068_jpg.rf.ee48a69fd6f710987596e8fdd2eea713.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 765,
+                    "y": 166,
+                    "width": 58,
+                    "height": 76
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 553,
+                    "y": 150.5,
+                    "width": 78,
+                    "height": 105
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 353.5,
+                    "y": 63,
+                    "width": 87,
+                    "height": 110
+                }
+            }
+        ]
+    },
+    {
+        "image": "RTX1GIDS_jpg.rf.dcc330d53db202ef81677d14e4e30cd9.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 644,
+                    "y": 42,
+                    "width": 52,
+                    "height": 64
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 414.5,
+                    "y": 65.5,
+                    "width": 105,
+                    "height": 123
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 192.5,
+                    "y": 102,
+                    "width": 55,
+                    "height": 72
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 24.5,
+                    "y": 125,
+                    "width": 45,
+                    "height": 80
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 241.5,
+                    "y": 95.5,
+                    "width": 71,
+                    "height": 91
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 797.5,
+                    "y": 188,
+                    "width": 221,
+                    "height": 286
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 340.5,
+                    "y": 259,
+                    "width": 241,
+                    "height": 316
+                }
+            }
+        ]
+    },
+    {
+        "image": "remote (1)_jpeg.rf.f2472419ac8ebfc38ba9bb5e215e11f8.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 646,
+                    "y": 455.5,
+                    "width": 102,
+                    "height": 105
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 569.5,
+                    "y": 213.5,
+                    "width": 93,
+                    "height": 117
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 469.5,
+                    "y": 282,
+                    "width": 105,
+                    "height": 126
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 197,
+                    "y": 189,
+                    "width": 148,
+                    "height": 184
+                }
+            }
+        ]
+    },
+    {
+        "image": "r1p00017o82psp0o0or_jpg.rf.f0f90c07761eece753f02beac72d5efe.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 416.5,
+                    "y": 207,
+                    "width": 217,
+                    "height": 232
+                }
+            }
+        ]
+    },
+    {
+        "image": "skypost16012020a01s_jpg.rf.f6eebdde4cc1270b8719743d530adae5.jpg",
+        "annotations": [
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 827,
+                    "y": 90,
+                    "width": 82,
+                    "height": 94
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1044.5,
+                    "y": 117,
+                    "width": 85,
+                    "height": 102
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 1135.5,
+                    "y": 207.5,
+                    "width": 73,
+                    "height": 127
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 715.5,
+                    "y": 388.5,
+                    "width": 153,
+                    "height": 155
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 749,
+                    "y": 290.5,
+                    "width": 134,
+                    "height": 129
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 647,
+                    "y": 184.5,
+                    "width": 92,
+                    "height": 127
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 575.5,
+                    "y": 149,
+                    "width": 91,
+                    "height": 118
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 299.5,
+                    "y": 152,
+                    "width": 103,
+                    "height": 126
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 155,
+                    "y": 173.5,
+                    "width": 104,
+                    "height": 113
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 228,
+                    "y": 228,
+                    "width": 104,
+                    "height": 144
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 230,
+                    "y": 356,
+                    "width": 124,
+                    "height": 128
+                }
+            },
+            {
+                "label": "no-mask",
+                "coordinates": {
+                    "x": 398,
+                    "y": 323.5,
+                    "width": 128,
+                    "height": 159
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1016,
+                    "y": 371.5,
+                    "width": 166,
+                    "height": 185
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 519,
+                    "y": 317.5,
+                    "width": 136,
+                    "height": 173
+                }
+            }
+        ]
+    },
+    {
+        "image": "Untitled-design-13_png.rf.ff8d68dfee2ede269856144ec3380659.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 326,
+                    "y": 160.5,
+                    "width": 112,
+                    "height": 117
+                }
+            }
+        ]
+    },
+    {
+        "image": "000_1ov3n5_0_jpeg.rf.edad89426b118f4c76ba4ae3790b3f31.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 579,
+                    "y": 167,
+                    "width": 226,
+                    "height": 218
+                }
+            }
+        ]
+    },
+    {
+        "image": "sdfsdfsfff_jpg.rf.de8549155f84a7f30cd5f9f88f6c58b3.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 670,
+                    "y": 249.5,
+                    "width": 370,
+                    "height": 491
+                }
+            }
+        ]
+    },
+    {
+        "image": "1553605632_9d5877d8_60_jpg.rf.dac19d9ceded61285f48c70d285f0f49.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 831,
+                    "y": 649,
+                    "width": 56,
+                    "height": 68
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 911,
+                    "y": 643.5,
+                    "width": 86,
+                    "height": 129
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 796.5,
+                    "y": 545.5,
+                    "width": 83,
+                    "height": 87
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 282.5,
+                    "y": 631,
+                    "width": 155,
+                    "height": 194
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 88.5,
+                    "y": 581,
+                    "width": 169,
+                    "height": 194
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 94,
+                    "y": 172,
+                    "width": 66,
+                    "height": 74
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 140.5,
+                    "y": 117,
+                    "width": 67,
+                    "height": 98
+                }
+            }
+        ]
+    },
+    {
+        "image": "1580166133-5b61094cac11561b0cbe09826e32a924_jpg.rf.fd801022283d5bce8079887db2ef980c.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 420,
+                    "y": 1752,
+                    "width": 788,
+                    "height": 1430
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 743,
+                    "y": 600,
+                    "width": 656,
+                    "height": 822
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 538.5,
+                    "y": 993.5,
+                    "width": 671,
+                    "height": 833
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 1321.5,
+                    "y": 1059.5,
+                    "width": 725,
+                    "height": 1047
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 2703,
+                    "y": 339,
+                    "width": 614,
+                    "height": 666
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 3614.5,
+                    "y": 382.5,
+                    "width": 601,
+                    "height": 749
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 3447,
+                    "y": 1484.5,
+                    "width": 824,
+                    "height": 1029
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 2203,
+                    "y": 1325,
+                    "width": 990,
+                    "height": 1352
+                }
+            }
+        ]
+    },
+    {
+        "image": "1133x768_20200130000023_jpg.rf.e8a099312aa174af48c5914c4986f91a.jpg",
+        "annotations": [
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 943,
+                    "y": 168.5,
+                    "width": 156,
+                    "height": 197
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 568,
+                    "y": 149.5,
+                    "width": 200,
+                    "height": 235
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 303,
+                    "y": 175.5,
+                    "width": 136,
+                    "height": 199
+                }
+            },
+            {
+                "label": "mask",
+                "coordinates": {
+                    "x": 165.5,
+                    "y": 206,
+                    "width": 171,
+                    "height": 216
+                }
+            }
+        ]
+    }
+]

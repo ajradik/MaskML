@@ -1,180 +1,56 @@
-# Recognizing Objects in Live Capture
+# Object Detection iOS App
 
-Apply Vision algorithms to identify objects in real-time video.
+You can find an in depth walkthrough for training a Core ML model [here](https://github.com/cloud-annotations/training/).
 
-## Overview
+## Setup
+`git clone` the repo and `cd` into it by running the following command:
 
-With the [Vision](https://developer.apple.com/documentation/vision) framework, you can recognize objects in live capture.  Starting in iOS 12, macOS 10.14, and tvOS 12, Vision requests made with a Core ML model return results as  [`VNRecognizedObjectObservation`](https://developer.apple.com/documentation/vision/vnrecognizedobjectobservation) objects, which identify objects found in the captured scene.
-
-This sample app shows you how to set up your camera for live capture, incorporate a Core ML model into Vision, and parse results as classified objects.
-
-![Example screenshots of app identifying a croissant and bananas in live capture.](Documentation/BananaCroissant.png)
-
-## Set Up Live Capture
-
-Although implementing AV live capture is similar from one capture app to another, configuring the camera to work best with Vision algorithms involves some subtle differences.
-
-**Configure the camera to use for capture.**  This sample app feeds camera output from AVFoundation into the main view controller.  Start by configuring an  [`AVCaptureSession`](https://developer.apple.com/documentation/avfoundation/avcapturesession):
-
-``` swift
-private let session = AVCaptureSession()
+```bash
+git clone https://github.com/cloud-annotations/object-detection-ios.git
+cd object-detection-ios
 ```
 
-**Set your device and session resolution.** It’s important to choose the right resolution for your app.  Don’t simply select the highest resolution available if your app doesn’t require it.  It’s better to select a lower resolution so Vision can process results more efficiently.  Check the model parameters in Xcode to find out if your app requires a resolution smaller than 640 x 480 pixels.
+## Add your model files to the project
+Copy the `model_ios` directory generated from the classification walkthrough and paste it into the `object-detection-ios/Core ML Object Detection` folder of this repo.
 
-Set the camera resolution to the nearest resolution that is greater than or equal to the resolution of images used in the model:
+## Install Xcode
+In order to develop for iOS we need to first install the latest version of Xcode, which can be found on the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
-``` swift
-let videoDevice = AVCaptureDevice.DiscoverySession(deviceTypes: [.builtInWideAngleCamera], mediaType: .video, position: .back).devices.first
-do {
-    deviceInput = try AVCaptureDeviceInput(device: videoDevice!)
-} catch {
-    print("Could not create video device input: \(error)")
-    return
-}
+## Open the project with Xcode
+Launch Xcode and choose **Open another project...**
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_50BD1551C2CA022B9CF9D8DF0A28275DB7ACF3DBDD5764C0CB12B3AF3B1E0766_1541995654686_Screen+Shot+2018-11-11+at+10.18.30+PM.png)
 
-session.beginConfiguration()
-session.sessionPreset = .vga640x480 // Model image size is smaller.
-```
+Then in the file selector, choose `object-detection-ios`.
 
-Vision will perform the remaining scaling.
+## Test the application in the simulator
+Now we’re ready to test! First we’ll make sure the app builds on our computer, if all goes well, the simulator will open and the app will display.
 
-**Add video input to your session by adding the camera as a device:**
+To run in the simulator, select an iOS device from the dropdown and click **run**.
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_50BD1551C2CA022B9CF9D8DF0A28275DB7ACF3DBDD5764C0CB12B3AF3B1E0766_1541996500409_Screen+Shot+2018-11-11+at+10.25.24+PM2.png)
 
-``` swift
-guard session.canAddInput(deviceInput) else {
-    print("Could not add video device input to the session")
-    session.commitConfiguration()
-    return
-}
-session.addInput(deviceInput)
-```
+## Or run the app on an iOS device
+Since the simulator does not have access to a camera, and the app relies on the camera to test the classifier, we should also run it on a real device.
 
-**Add video output to your session, being sure to specify the pixel format:**
 
-``` swift
-if session.canAddOutput(videoDataOutput) {
-    session.addOutput(videoDataOutput)
-    // Add a video data output
-    videoDataOutput.alwaysDiscardsLateVideoFrames = true
-    videoDataOutput.videoSettings = [kCVPixelBufferPixelFormatTypeKey as String: Int(kCVPixelFormatType_420YpCbCr8BiPlanarFullRange)]
-    videoDataOutput.setSampleBufferDelegate(self, queue: videoDataOutputQueue)
-} else {
-    print("Could not add video data output to the session")
-    session.commitConfiguration()
-    return
-}
-```
+1. Select the project editor (*The name of the project with a blue icon*)
+1. Under the **Signing** section, click **Add Account**
+![](https://bourdakos1.github.io/deprecated-cloud-annotations/assets/add_account.png)
+1. Login with your Apple ID and password
+![](https://bourdakos1.github.io/deprecated-cloud-annotations/assets/xcode_add_account.png)
+1. *You should see a new personal team created*
+1. Close the preferences window
 
-**Process every frame, but don’t hold on to more than one Vision request at a time.**  The camera will stop working if the buffer queue overflows available memory.  To simplify buffer management, in the capture output, Vision blocks the call for as long as the previous request requires.  As a result, AVFoundation may drop frames, if necessary.  The sample app keeps a queue size of 1; if a Vision request is already queued up for processing when another becomes available, skip it instead of holding on to extras.  
+Now we have to create a certificate to sign our app with
+1. Select **General**
+1. Change the **bundle identifier** to `com.<YOUR_LAST_NAME>.Core-ML-Vision`
+![](https://bourdakos1.github.io/deprecated-cloud-annotations/assets/change_identifier.png)
+1. Select the personal team that was just created from the **Team** dropdown
+1. Plug in your iOS device
+1. Select your device from the device menu to the right of the **build and run** icon
+1. Click **build and run**
+1. On your device, you should see the app appear as an installed appear
+1. When you try to run the app the first time, it will prompt you to approve the developer
+1. In your iOS settings navigate to ***General > Device Management***
+1. Tap your email, tap **trust**
 
-``` swift
-let captureConnection = videoDataOutput.connection(with: .video)
-// Always process the frames
-captureConnection?.isEnabled = true
-do {
-    try  videoDevice!.lockForConfiguration()
-    let dimensions = CMVideoFormatDescriptionGetDimensions((videoDevice?.activeFormat.formatDescription)!)
-    bufferSize.width = CGFloat(dimensions.width)
-    bufferSize.height = CGFloat(dimensions.height)
-    videoDevice!.unlockForConfiguration()
-} catch {
-    print(error)
-}
-```
-
-**Commit the session configuration:**
-
-``` swift
-session.commitConfiguration()
-```
-
-Set up a preview layer on your view controller, so the camera can feed its frames into your app’s UI:
-
-``` swift
-previewLayer = AVCaptureVideoPreviewLayer(session: session)
-previewLayer.videoGravity = AVLayerVideoGravity.resizeAspectFill
-rootLayer = previewView.layer
-previewLayer.frame = rootLayer.bounds
-rootLayer.addSublayer(previewLayer)
-```
-
-## Specify Device Orientation
-
-You must input the camera’s orientation properly using the device orientation.  Vision algorithms aren’t orientation-agnostic, so when you make a request, use an orientation that's relative to that of the capture device.
-
-``` swift
-let curDeviceOrientation = UIDevice.current.orientation
-let exifOrientation: CGImagePropertyOrientation
-
-switch curDeviceOrientation {
-case UIDeviceOrientation.portraitUpsideDown:  // Device oriented vertically, home button on the top
-    exifOrientation = .left
-case UIDeviceOrientation.landscapeLeft:       // Device oriented horizontally, home button on the right
-    exifOrientation = .upMirrored
-case UIDeviceOrientation.landscapeRight:      // Device oriented horizontally, home button on the left
-    exifOrientation = .down
-case UIDeviceOrientation.portrait:            // Device oriented vertically, home button on the bottom
-    exifOrientation = .up
-default:
-    exifOrientation = .up
-}
-```
-
-## Designate Labels Using a Core ML Classifier
-
-The Core ML model you include in your app determines which labels are used in Vision’s object identifiers.  The model in this sample app was trained in Turi Create 4.3.2 using Darknet YOLO (You Only Look Once). See [Object Detection](https://apple.github.io/turicreate/docs/userguide/object_detection/) to learn how to generate your own models using Turi Create. Vision analyzes these models and returns observations as [`VNRecognizedObjectObservation`](https://developer.apple.com/documentation/vision/vnrecognizedobjectobservation) objects.
-
-Load the model using a [`VNCoreMLModel`](https://developer.apple.com/documentation/vision/vncoremlmodel):
-
-``` swift
-let visionModel = try VNCoreMLModel(for: MLModel(contentsOf: modelURL))
-```
-
-Create a [`VNCoreMLRequest`](https://developer.apple.com/documentation/vision/vncoremlrequest) with that model:
-
-``` swift
-let objectRecognition = VNCoreMLRequest(model: visionModel, completionHandler: { (request, error) in
-    DispatchQueue.main.async(execute: {
-        // perform all the UI updates on the main queue
-        if let results = request.results {
-            self.drawVisionRequestResults(results)
-        }
-    })
-})
-```
-
-The completion handler could execute on a background queue, so perform UI updates on the main queue to provide immediate visual feedback.
-
-Access results in the request’s completion handler, or through the `requests` property.
-
-## Parse Recognized Object Observations
-
-The `results` property is an array of observations, each with a set of labels and bounding boxes. Parse those observations by iterating through the array, as follows:
-
-``` swift
-for observation in results where observation is VNRecognizedObjectObservation {
-    guard let objectObservation = observation as? VNRecognizedObjectObservation else {
-        continue
-    }
-    // Select only the label with the highest confidence.
-    let topLabelObservation = objectObservation.labels[0]
-    let objectBounds = VNImageRectForNormalizedRect(objectObservation.boundingBox, Int(bufferSize.width), Int(bufferSize.height))
-    
-    let shapeLayer = self.createRoundedRectLayerWithBounds(objectBounds)
-    
-    let textLayer = self.createTextSubLayerInBounds(objectBounds,
-                                                    identifier: topLabelObservation.identifier,
-                                                    confidence: topLabelObservation.confidence)
-    shapeLayer.addSublayer(textLayer)
-    detectionOverlay.addSublayer(shapeLayer)
-}
-```
-
-The `labels` array lists each classification `identifier` along with its `confidence` value, ordered from highest confidence to lowest.  The sample app notes only the classification with the highest `confidence` score, at element `0`.  It then displays this classification and confidence in a textual overlay.
-
-The bounding box tells where the object was observed. The sample uses this location to draw a bounding box around the object.
-
-This sample simplifies classification by returning only the top classification; the array is ordered in decreasing order of confidence score.  However, your app could analyze the confidence score and show multiple classifications, either to further describe your detected objects, or to show competing classifications.
-
-You can also use the [`VNRecognizedObjectObservation`](https://developer.apple.com/documentation/vision/vnrecognizedobjectobservation) resulting from object recognition to initialize an object tracker such as [`VNTrackObjectRequest`](https://developer.apple.com/documentation/vision/vntrackobjectrequest).  For more information about tracking, see the article on object tracking: [`Tracking Multiple Objects or Rectangles in Video`](https://developer.apple.com/documentation/vision/tracking_multiple_objects_or_rectangles_in_video).
+Now you're ready to run the app!
