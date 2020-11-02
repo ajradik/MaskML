@@ -33,11 +33,11 @@ class UIBoundingBox {
     
     func transformLabel(label: String) -> String {
         if label == "no-mask" {
-            return "No Mask"
+            return "Face with No Mask"
         }
         
         else if label == "mask" {
-            return "Mask"
+            return "Face with Mask"
         }
         
         return label
@@ -46,12 +46,14 @@ class UIBoundingBox {
     func show(frame: CGRect, label: String, color: UIColor, textColor: UIColor = .white) {
         CATransaction.setDisableActions(true)
         
+        let modifiedLabel = transformLabel(label: label)
+        
         let path = UIBezierPath(roundedRect: frame, cornerRadius: 6.0)
         shapeLayer.path = path.cgPath
         shapeLayer.strokeColor = color.cgColor
         shapeLayer.isHidden = false
         
-        textLayer.string = transformLabel(label: label)
+        textLayer.string = modifiedLabel
         textLayer.foregroundColor = textColor.cgColor
         textLayer.backgroundColor = color.cgColor
         textLayer.isHidden = false
@@ -60,7 +62,7 @@ class UIBoundingBox {
             NSAttributedString.Key.font: textLayer.font as Any
         ]
         
-        let textRect = label.boundingRect(with: CGSize(width: 400, height: 100), options: .truncatesLastVisibleLine, attributes: attributes, context: nil)
+        let textRect = modifiedLabel.boundingRect(with: CGSize(width: 400, height: 100), options: .truncatesLastVisibleLine, attributes: attributes, context: nil)
         let textSize = CGSize(width: textRect.width + 6, height: textRect.height)
         let textOrigin = CGPoint(x: frame.origin.x, y: frame.origin.y - textSize.height - 3)
         textLayer.frame = CGRect(origin: textOrigin, size: textSize)
