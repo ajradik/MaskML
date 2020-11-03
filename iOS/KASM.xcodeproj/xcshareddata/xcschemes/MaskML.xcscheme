@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "234EB2D4221FA7C800B23265"
-               BuildableName = "MaskML.app"
-               BlueprintName = "MaskML"
-               ReferencedContainer = "container:MaskML.xcodeproj">
+               BuildableName = "KASM.app"
+               BlueprintName = "KASM"
+               ReferencedContainer = "container:KASM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,9 +50,9 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "234EB2D4221FA7C800B23265"
-                     BuildableName = "MaskML.app"
-                     BlueprintName = "MaskML"
-                     ReferencedContainer = "container:MaskML.xcodeproj">
+                     BuildableName = "KASM.app"
+                     BlueprintName = "KASM"
+                     ReferencedContainer = "container:KASM.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -63,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "234EB2D4221FA7C800B23265"
-            BuildableName = "MaskML.app"
-            BlueprintName = "MaskML"
-            ReferencedContainer = "container:MaskML.xcodeproj">
+            BuildableName = "KASM.app"
+            BlueprintName = "KASM"
+            ReferencedContainer = "container:KASM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "234EB2D4221FA7C800B23265"
-            BuildableName = "MaskML.app"
-            BlueprintName = "MaskML"
-            ReferencedContainer = "container:MaskML.xcodeproj">
+            BuildableName = "KASM.app"
+            BlueprintName = "KASM"
+            ReferencedContainer = "container:KASM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

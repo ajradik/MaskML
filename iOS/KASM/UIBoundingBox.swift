@@ -33,7 +33,7 @@ class UIBoundingBox {
     
     func transformLabel(label: String) -> String {
         if label == "no-mask" {
-            return "Face with No Mask"
+            return "Face"
         }
         
         else if label == "mask" {

@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		234EB2D5221FA7C800B23265 /* MaskML.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MaskML.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		234EB2D5221FA7C800B23265 /* KASM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KASM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		234EB2D8221FA7C800B23265 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		234EB2DA221FA7C800B23265 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		234EB2DD221FA7C800B23265 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		234EB2CC221FA7C800B23265 = {
 			isa = PBXGroup;
 			children = (
-				234EB2D7221FA7C800B23265 /* MaskML */,
+				234EB2D7221FA7C800B23265 /* KASM */,
 				234EB2D6221FA7C800B23265 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,12 +57,12 @@
 		234EB2D6221FA7C800B23265 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				234EB2D5221FA7C800B23265 /* MaskML.app */,
+				234EB2D5221FA7C800B23265 /* KASM.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		234EB2D7221FA7C800B23265 /* MaskML */ = {
+		234EB2D7221FA7C800B23265 /* KASM */ = {
 			isa = PBXGroup;
 			children = (
 				C7BF7611254F4FB4005DED91 /* MaskML.entitlements */,
@@ -78,15 +78,15 @@
 				234EB2E1221FA7CA00B23265 /* LaunchScreen.storyboard */,
 				234EB2E4221FA7CA00B23265 /* Info.plist */,
 			);
-			path = MaskML;
+			path = KASM;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		234EB2D4221FA7C800B23265 /* MaskML */ = {
+		234EB2D4221FA7C800B23265 /* KASM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 234EB2E7221FA7CA00B23265 /* Build configuration list for PBXNativeTarget "MaskML" */;
+			buildConfigurationList = 234EB2E7221FA7CA00B23265 /* Build configuration list for PBXNativeTarget "KASM" */;
 			buildPhases = (
 				234EB2D1221FA7C800B23265 /* Sources */,
 				234EB2D2221FA7C800B23265 /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = MaskML;
+			name = KASM;
 			productName = "Core ML Object Detection";
-			productReference = 234EB2D5221FA7C800B23265 /* MaskML.app */;
+			productReference = 234EB2D5221FA7C800B23265 /* KASM.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -117,7 +117,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 234EB2D0221FA7C800B23265 /* Build configuration list for PBXProject "MaskML" */;
+			buildConfigurationList = 234EB2D0221FA7C800B23265 /* Build configuration list for PBXProject "KASM" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -130,7 +130,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				234EB2D4221FA7C800B23265 /* MaskML */,
+				234EB2D4221FA7C800B23265 /* KASM */,
 			);
 		};
 /* End PBXProject section */
@@ -310,7 +310,7 @@
 				CODE_SIGN_ENTITLEMENTS = MaskML/MaskML.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = None;
-				CURRENT_PROJECT_VERSION = 11;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_TEAM = 3H34YAH4Y6;
 				INFOPLIST_FILE = MaskML/Info.plist;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
@@ -334,7 +334,7 @@
 				CODE_SIGN_ENTITLEMENTS = MaskML/MaskML.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COREML_CODEGEN_LANGUAGE = None;
-				CURRENT_PROJECT_VERSION = 11;
+				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_TEAM = 3H34YAH4Y6;
 				INFOPLIST_FILE = MaskML/Info.plist;
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
@@ -354,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		234EB2D0221FA7C800B23265 /* Build configuration list for PBXProject "MaskML" */ = {
+		234EB2D0221FA7C800B23265 /* Build configuration list for PBXProject "KASM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				234EB2E5221FA7CA00B23265 /* Debug */,
@@ -363,7 +363,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		234EB2E7221FA7CA00B23265 /* Build configuration list for PBXNativeTarget "MaskML" */ = {
+		234EB2E7221FA7CA00B23265 /* Build configuration list for PBXNativeTarget "KASM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				234EB2E8221FA7CA00B23265 /* Debug */,
