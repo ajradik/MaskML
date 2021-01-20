@@ -28,7 +28,7 @@ class CameraViewController: UIViewController {
     
     let videoOutput = AVCaptureVideoDataOutput()
     lazy var captureSession: AVCaptureSession? = {
-        guard let backCamera = AVCaptureDevice.default(for: .video),
+        guard let backCamera = AVCaptureDevice.default(.builtInWideAngleCamera, for: .video, position: .front),
             let input = try? AVCaptureDeviceInput(device: backCamera) else {
                 return nil
         }
@@ -97,9 +97,11 @@ extension CameraViewController: AVCaptureVideoDataOutputSampleBufferDelegate {
                     let scale = CGAffineTransform.identity.scaledBy(x: width, y: height)
                     let transform = CGAffineTransform(scaleX: 1, y: -1).translatedBy(x: 0, y: -height - offsetY)
                     let rect = prediction.boundingBox.applying(scale).applying(transform)
-                    
+                    //EDIT
+                    let modifiedRect = CGRect(x: width - rect.maxX, y: rect.minY, width: rect.width, height: rect.height) //For Front Camera
+                    //END EDIT
                     let color = UIColor(red: 36/255, green: 101/255, blue: 255/255, alpha: 1.0)
-                    self.boundingBoxes[index].show(frame: rect, label: label.identifier, color: color)
+                    self.boundingBoxes[index].show(frame: modifiedRect, label: label.identifier, color: color)
                 }
                 for index in topKPredictions.count ..< 20 {
                     self.boundingBoxes[index].hide()
